@@ -1,0 +1,559 @@
+Order Date,data_source,Country,CC VS APM,First Payment Method,Order Count,Success Order Count,Recovery Order Count
+2026-01-01,Efood,Cyprus,Credit Card,applepay,168707,166965,620
+2026-01-01,Efood,Cyprus,Credit Card,card,473893,460517,7520
+2026-01-01,Efood,Cyprus,Credit Card,googlepay,27359,26978,173
+2026-01-01,Efood,Greece,Alternative Payment Method,revolutpay,4,1,0
+2026-01-01,Efood,Greece,Credit Card,applepay,1434175,1417454,10065
+2026-01-01,Efood,Greece,Credit Card,card,4065350,3877377,123385
+2026-01-01,Efood,Greece,Credit Card,googlepay,363572,355276,4802
+2026-01-01,Glovo,Armenia,Credit Card,apple_pay,35591,34335,572
+2026-01-01,Glovo,Armenia,Credit Card,credit_card,56652,54188,923
+2026-01-01,Glovo,Armenia,Credit Card,google_pay,8437,8103,102
+2026-01-01,Glovo,Bosnia and Herzegovina,Credit Card,credit_card,66311,60276,2832
+2026-01-01,Glovo,Bulgaria,Credit Card,apple_pay,132695,130449,744
+2026-01-01,Glovo,Bulgaria,Credit Card,credit_card,162277,155351,3580
+2026-01-01,Glovo,Bulgaria,Credit Card,google_pay,49019,47432,707
+2026-01-01,Glovo,Croatia,Credit Card,apple_pay,54896,53842,481
+2026-01-01,Glovo,Croatia,Credit Card,credit_card,178003,170167,3783
+2026-01-01,Glovo,Croatia,Credit Card,google_pay,45979,44196,773
+2026-01-01,Glovo,Georgia,Credit Card,apple_pay,285119,280097,1142
+2026-01-01,Glovo,Georgia,Credit Card,credit_card,453973,432834,8992
+2026-01-01,Glovo,Georgia,Credit Card,google_pay,68063,64814,1209
+2026-01-01,Glovo,Italy,Alternative Payment Method,edenred_apple_pay,20092,17732,961
+2026-01-01,Glovo,Italy,Alternative Payment Method,edenred_credit_card,18380,13844,1280
+2026-01-01,Glovo,Italy,Alternative Payment Method,edenred_google_pay,4240,3802,109
+2026-01-01,Glovo,Italy,Alternative Payment Method,edenred_paypal,13012,10007,1033
+2026-01-01,Glovo,Italy,Alternative Payment Method,paypal,433887,420561,6509
+2026-01-01,Glovo,Italy,Credit Card,apple_pay,954262,928699,11395
+2026-01-01,Glovo,Italy,Credit Card,credit_card,1508103,1416230,35343
+2026-01-01,Glovo,Italy,Credit Card,google_pay,247237,232025,5983
+2026-01-01,Glovo,Ivory Coast,Credit Card,apple_pay,7371,6754,333
+2026-01-01,Glovo,Ivory Coast,Credit Card,credit_card,79746,67807,6655
+2026-01-01,Glovo,Ivory Coast,Credit Card,google_pay,5960,4218,899
+2026-01-01,Glovo,Kazakhstan,Alternative Payment Method,kaspi,202671,175346,9989
+2026-01-01,Glovo,Kazakhstan,Alternative Payment Method,kaspi_direct,25458,20475,29
+2026-01-01,Glovo,Kazakhstan,Credit Card,apple_pay,48529,46516,1247
+2026-01-01,Glovo,Kazakhstan,Credit Card,credit_card,300821,286699,6054
+2026-01-01,Glovo,Kazakhstan,Credit Card,google_pay,11679,10663,442
+2026-01-01,Glovo,Kenya,Alternative Payment Method,cellulant_native,226089,185968,12685
+2026-01-01,Glovo,Kenya,Credit Card,apple_pay,18638,17752,294
+2026-01-01,Glovo,Kenya,Credit Card,credit_card,149986,129373,7056
+2026-01-01,Glovo,Kenya,Credit Card,google_pay,26196,20219,2443
+2026-01-01,Glovo,Kyrgyzstan,Credit Card,credit_card,152772,142858,5224
+2026-01-01,Glovo,Kyrgyzstan,Credit Card,google_pay,9692,8257,640
+2026-01-01,Glovo,Moldova,Credit Card,credit_card,82242,76009,2309
+2026-01-01,Glovo,Moldova,Credit Card,google_pay,1,0,0
+2026-01-01,Glovo,Montenegro,Credit Card,credit_card,78418,73153,2391
+2026-01-01,Glovo,Morocco,Credit Card,credit_card,1945838,1790973,44795
+2026-01-01,Glovo,Nigeria,Alternative Payment Method,paystack,209354,160763,9939
+2026-01-01,Glovo,Nigeria,Credit Card,apple_pay,9565,8993,197
+2026-01-01,Glovo,Nigeria,Credit Card,credit_card,208722,181938,7146
+2026-01-01,Glovo,Poland,Alternative Payment Method,blik,665744,616389,23142
+2026-01-01,Glovo,Poland,Credit Card,apple_pay,890500,877592,5022
+2026-01-01,Glovo,Poland,Credit Card,credit_card,448194,426155,12917
+2026-01-01,Glovo,Poland,Credit Card,google_pay,344217,334391,5161
+2026-01-01,Glovo,Portugal,Alternative Payment Method,mb_way,528509,478494,17685
+2026-01-01,Glovo,Portugal,Alternative Payment Method,paypal,54244,51046,1788
+2026-01-01,Glovo,Portugal,Credit Card,apple_pay,289273,282151,2396
+2026-01-01,Glovo,Portugal,Credit Card,credit_card,527143,470826,24867
+2026-01-01,Glovo,Portugal,Credit Card,google_pay,73660,67529,2523
+2026-01-01,Glovo,Romania,Alternative Payment Method,edenred_apple_pay,6672,6336,167
+2026-01-01,Glovo,Romania,Alternative Payment Method,edenred_credit_card,11156,8370,704
+2026-01-01,Glovo,Romania,Alternative Payment Method,edenred_google_pay,2728,2544,53
+2026-01-01,Glovo,Romania,Credit Card,apple_pay,628541,614894,4094
+2026-01-01,Glovo,Romania,Credit Card,credit_card,949030,893299,24902
+2026-01-01,Glovo,Romania,Credit Card,google_pay,221289,211241,3567
+2026-01-01,Glovo,Serbia,Credit Card,apple_pay,37877,36091,841
+2026-01-01,Glovo,Serbia,Credit Card,credit_card,306496,294445,6828
+2026-01-01,Glovo,Serbia,Credit Card,google_pay,16352,12998,1561
+2026-01-01,Glovo,Spain,Alternative Payment Method,paypal,313069,303636,4507
+2026-01-01,Glovo,Spain,Credit Card,apple_pay,1988524,1955503,7419
+2026-01-01,Glovo,Spain,Credit Card,credit_card,3264366,3122492,46931
+2026-01-01,Glovo,Spain,Credit Card,google_pay,530632,507435,7370
+2026-01-01,Glovo,Tunisia,Credit Card,credit_card,127838,100147,13857
+2026-01-01,Glovo,Uganda,Alternative Payment Method,cellulant_native,51455,38582,6248
+2026-01-01,Glovo,Uganda,Credit Card,apple_pay,3398,3242,66
+2026-01-01,Glovo,Uganda,Credit Card,credit_card,25865,22628,1268
+2026-01-01,Glovo,Uganda,Credit Card,google_pay,2972,2291,295
+2026-01-01,Glovo,Ukraine,Credit Card,apple_pay,898344,882402,4088
+2026-01-01,Glovo,Ukraine,Credit Card,credit_card,305403,283156,9496
+2026-01-01,Glovo,Ukraine,Credit Card,google_pay,284921,265677,4983
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,mada,1534402,1254077,39370
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,mada_apple_pay,7908156,7580627,25480
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mada_mixed-wallet, mada_apple_pay",477710,450864,2463
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, apple_pay",158806,152406,456
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, credit_card",50244,47135,453
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, mada",88178,72633,1449
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, stcpay",10117,7624,150
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, tabby",42540,33629,1328
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, tamara",48346,33639,1496
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,stcpay,106473,85689,1137
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,tabby,966610,695553,41568
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,tamara,959490,655747,23
+2026-01-01,Hungerstation,Saudi Arabia,Alternative Payment Method,wallet,291786,291710,0
+2026-01-01,Hungerstation,Saudi Arabia,Credit Card,apple_pay,2893614,2762072,50513
+2026-01-01,Hungerstation,Saudi Arabia,Credit Card,credit_card,961891,902249,15354
+2026-01-01,Pandora,Austria,Alternative Payment Method,adyen_hpp_sofort,67064,57098,3905
+2026-01-01,Pandora,Austria,Alternative Payment Method,balance,530,530,0
+2026-01-01,Pandora,Austria,Alternative Payment Method,klarna,41112,34625,1574
+2026-01-01,Pandora,Austria,Alternative Payment Method,no_payment,9,9,0
+2026-01-01,Pandora,Austria,Alternative Payment Method,paypal,291585,283184,3367
+2026-01-01,Pandora,Austria,Alternative Payment Method,trustly_online_banking,4,4,0
+2026-01-01,Pandora,Austria,Credit Card,adyen,521041,504571,4729
+2026-01-01,Pandora,Austria,Credit Card,applepay,399481,393880,1955
+2026-01-01,Pandora,Austria,Credit Card,googlepay,33814,32727,391
+2026-01-01,Pandora,Bangladesh,Alternative Payment Method,antfinancial_bkash,488556,422599,37255
+2026-01-01,Pandora,Bangladesh,Alternative Payment Method,balance,8722,8622,33
+2026-01-01,Pandora,Bangladesh,Alternative Payment Method,ssl_online_payment,5840,3652,992
+2026-01-01,Pandora,Bangladesh,Alternative Payment Method,ssl_standalone_payment,33956,26247,3587
+2026-01-01,Pandora,Bangladesh,Credit Card,cybersource_creditcard,392030,375496,7534
+2026-01-01,Pandora,Cambodia,Alternative Payment Method,aba_pay,283029,268091,8531
+2026-01-01,Pandora,Cambodia,Alternative Payment Method,no_payment,30,30,0
+2026-01-01,Pandora,Cambodia,Credit Card,generic_creditcard,79982,77076,1344
+2026-01-01,Pandora,Czech Republic,Alternative Payment Method,balance,374,371,1
+2026-01-01,Pandora,Czech Republic,Alternative Payment Method,no_payment,7,7,0
+2026-01-01,Pandora,Czech Republic,Alternative Payment Method,payu_twisto,22531,15055,1344
+2026-01-01,Pandora,Czech Republic,Credit Card,adyen,540637,529950,3590
+2026-01-01,Pandora,Czech Republic,Credit Card,applepay,500590,497148,852
+2026-01-01,Pandora,Czech Republic,Credit Card,googlepay,127560,124194,1296
+2026-01-01,Pandora,Hong Kong,Alternative Payment Method,adyen_wechatpay,63021,59496,1526
+2026-01-01,Pandora,Hong Kong,Alternative Payment Method,antfinancial_alipay,553005,541598,7175
+2026-01-01,Pandora,Hong Kong,Alternative Payment Method,antfinancial_alipaycn,12343,10604,1093
+2026-01-01,Pandora,Hong Kong,Alternative Payment Method,balance,31,31,0
+2026-01-01,Pandora,Hong Kong,Alternative Payment Method,gift_card,15566,15557,2
+2026-01-01,Pandora,Hong Kong,Alternative Payment Method,hsbc_payme,458703,441610,9148
+2026-01-01,Pandora,Hong Kong,Alternative Payment Method,no_payment,1,0,0
+2026-01-01,Pandora,Hong Kong,Credit Card,adyen,190,157,8
+2026-01-01,Pandora,Hong Kong,Credit Card,generic_applepay,831603,827526,2759
+2026-01-01,Pandora,Hong Kong,Credit Card,generic_creditcard,857048,843536,8190
+2026-01-01,Pandora,Hong Kong,Credit Card,generic_googlepay,37204,36461,358
+2026-01-01,Pandora,Hungary,Alternative Payment Method,bigfish_szep_kh,14263,11803,1524
+2026-01-01,Pandora,Hungary,Alternative Payment Method,bigfish_szep_mkb,15218,14099,576
+2026-01-01,Pandora,Hungary,Alternative Payment Method,bigfish_szep_otp,187806,170932,8794
+2026-01-01,Pandora,Hungary,Alternative Payment Method,no_payment,4,4,0
+2026-01-01,Pandora,Hungary,Credit Card,adyen,606726,593607,3723
+2026-01-01,Pandora,Hungary,Credit Card,applepay,331275,327063,1738
+2026-01-01,Pandora,Hungary,Credit Card,googlepay,74819,73515,401
+2026-01-01,Pandora,Laos,Alternative Payment Method,no_payment,1,1,0
+2026-01-01,Pandora,Laos,Credit Card,cybersource_creditcard,10274,9098,355
+2026-01-01,Pandora,Malaysia,Alternative Payment Method,adyen_hpp_boost,25243,21545,1588
+2026-01-01,Pandora,Malaysia,Alternative Payment Method,antfinancial_tng,1057573,1004976,29780
+2026-01-01,Pandora,Malaysia,Alternative Payment Method,gift_card,902,900,2
+2026-01-01,Pandora,Malaysia,Alternative Payment Method,maybankcasa,23995,15009,6910
+2026-01-01,Pandora,Malaysia,Alternative Payment Method,no_payment,639,638,0
+2026-01-01,Pandora,Malaysia,Alternative Payment Method,razer_online_banking,2656340,2511789,39526
+2026-01-01,Pandora,Malaysia,Alternative Payment Method,tng_wallet_tng_wallet,514265,509549,2037
+2026-01-01,Pandora,Malaysia,Credit Card,adyen,67215,64425,1940
+2026-01-01,Pandora,Malaysia,Credit Card,cybersource_applepay,274596,270288,2756
+2026-01-01,Pandora,Malaysia,Credit Card,cybersource_creditcard,1304263,1251330,29192
+2026-01-01,Pandora,Myanmar,Alternative Payment Method,no_payment,69,69,0
+2026-01-01,Pandora,Myanmar,Alternative Payment Method,wavepay,59496,51414,4327
+2026-01-01,Pandora,Myanmar,Credit Card,generic_creditcard,62648,59374,1779
+2026-01-01,Pandora,Norway,Alternative Payment Method,balance,179,179,0
+2026-01-01,Pandora,Norway,Alternative Payment Method,klarna,72301,63295,2680
+2026-01-01,Pandora,Norway,Alternative Payment Method,no_payment,24,24,0
+2026-01-01,Pandora,Norway,Alternative Payment Method,paypal,7571,6939,310
+2026-01-01,Pandora,Norway,Alternative Payment Method,trustly_online_banking,799,315,199
+2026-01-01,Pandora,Norway,Alternative Payment Method,vippsdirect,401213,386138,3303
+2026-01-01,Pandora,Norway,Credit Card,adyen,139438,133016,2290
+2026-01-01,Pandora,Norway,Credit Card,applepay,128792,126935,672
+2026-01-01,Pandora,Norway,Credit Card,googlepay,6841,6307,173
+2026-01-01,Pandora,Pakistan,Alternative Payment Method,antfinancial_easypaisa,616315,498737,57440
+2026-01-01,Pandora,Pakistan,Alternative Payment Method,balance,140958,138816,591
+2026-01-01,Pandora,Pakistan,Alternative Payment Method,gift_card,5610,5553,4
+2026-01-01,Pandora,Pakistan,Alternative Payment Method,jazzcash_wallet,285081,226762,31465
+2026-01-01,Pandora,Pakistan,Alternative Payment Method,no_payment,2,0,2
+2026-01-01,Pandora,Pakistan,Credit Card,generic_creditcard,3204061,3037918,59083
+2026-01-01,Pandora,Philippines,Alternative Payment Method,antfinancial_gcash,3420387,3214746,122367
+2026-01-01,Pandora,Philippines,Alternative Payment Method,balance,117217,116341,172
+2026-01-01,Pandora,Philippines,Alternative Payment Method,gift_card,46,45,1
+2026-01-01,Pandora,Philippines,Alternative Payment Method,no_payment,1186,1186,0
+2026-01-01,Pandora,Philippines,Alternative Payment Method,online_payment_on_delivery,2,2,0
+2026-01-01,Pandora,Philippines,Alternative Payment Method,paypal,1093,1066,8
+2026-01-01,Pandora,Philippines,Alternative Payment Method,xendit_directdebit,112815,84003,17804
+2026-01-01,Pandora,Philippines,Credit Card,generic_creditcard,2077975,1972321,41399
+2026-01-01,Pandora,Singapore,Alternative Payment Method,balance,252417,243955,6798
+2026-01-01,Pandora,Singapore,Alternative Payment Method,gift_card,8009,8008,0
+2026-01-01,Pandora,Singapore,Alternative Payment Method,no_payment,6820,6818,2
+2026-01-01,Pandora,Singapore,Alternative Payment Method,paypal,25240,24206,488
+2026-01-01,Pandora,Singapore,Alternative Payment Method,reddot_paylah,106074,102192,2000
+2026-01-01,Pandora,Singapore,Credit Card,adyen,339,292,32
+2026-01-01,Pandora,Singapore,Credit Card,generic_applepay,469208,466590,1449
+2026-01-01,Pandora,Singapore,Credit Card,generic_creditcard,1149203,1131427,8919
+2026-01-01,Pandora,Singapore,Credit Card,generic_googlepay,86012,84887,500
+2026-01-01,Pandora,Sweden,Alternative Payment Method,adyen_hpp_swish,579706,554639,7921
+2026-01-01,Pandora,Sweden,Alternative Payment Method,klarna,546844,515467,7447
+2026-01-01,Pandora,Sweden,Alternative Payment Method,no_payment,661,660,1
+2026-01-01,Pandora,Sweden,Alternative Payment Method,paypal,16441,14527,1020
+2026-01-01,Pandora,Sweden,Credit Card,adyen,345695,333595,4387
+2026-01-01,Pandora,Sweden,Credit Card,applepay,435498,430331,2399
+2026-01-01,Pandora,Sweden,Credit Card,googlepay,9944,9502,154
+2026-01-01,Pandora,Taiwan,Alternative Payment Method,balance,93364,93078,197
+2026-01-01,Pandora,Taiwan,Alternative Payment Method,globalpayments_pxpay,289635,276608,8601
+2026-01-01,Pandora,Taiwan,Alternative Payment Method,line_pay,2018760,1963241,38352
+2026-01-01,Pandora,Taiwan,Alternative Payment Method,no_payment,525,525,0
+2026-01-01,Pandora,Taiwan,Credit Card,cybersource_applepay,1035729,1024608,7216
+2026-01-01,Pandora,Taiwan,Credit Card,cybersource_creditcard,7146000,7025813,76072
+2026-01-01,Pandora,Turkey,Alternative Payment Method,balance,154335,153124,598
+2026-01-01,Pandora,Turkey,Alternative Payment Method,craftgate_edenred,225529,207211,3735
+2026-01-01,Pandora,Turkey,Alternative Payment Method,iyzico_yemeksepetipay,145329,113009,11198
+2026-01-01,Pandora,Turkey,Alternative Payment Method,multinet_mealcard,134324,122470,2669
+2026-01-01,Pandora,Turkey,Alternative Payment Method,no_payment,1887,1880,4
+2026-01-01,Pandora,Turkey,Alternative Payment Method,pluxee_mealcard,144795,134833,2605
+2026-01-01,Pandora,Turkey,Credit Card,yemekpay_creditcard,15277309,14613252,129180
+2026-01-01,Pedidosya,Argentina,Alternative Payment Method,wallet,120472,120132,138
+2026-01-01,Pedidosya,Argentina,Credit Card,card,10097142,9653695,159873
+2026-01-01,Pedidosya,Bolivia,Alternative Payment Method,dlocal_wallet,540397,472854,50653
+2026-01-01,Pedidosya,Bolivia,Alternative Payment Method,wallet,9363,9239,96
+2026-01-01,Pedidosya,Bolivia,Alternative Payment Method,wallet_tigo_money,510,410,86
+2026-01-01,Pedidosya,Bolivia,Credit Card,card,235616,214427,18554
+2026-01-01,Pedidosya,Chile,Alternative Payment Method,mach_pay,183441,165782,7956
+2026-01-01,Pedidosya,Chile,Alternative Payment Method,wallet,1555,1521,10
+2026-01-01,Pedidosya,Chile,Credit Card,card,2804121,2659818,28589
+2026-01-01,Pedidosya,Costa Rica,Alternative Payment Method,wallet,1081,1077,0
+2026-01-01,Pedidosya,Costa Rica,Credit Card,card,190772,177792,6194
+2026-01-01,Pedidosya,Dominican Republic,Alternative Payment Method,wallet,9506,9439,39
+2026-01-01,Pedidosya,Dominican Republic,Credit Card,card,1394509,1278838,40097
+2026-01-01,Pedidosya,Ecuador,Alternative Payment Method,wallet,7382,7359,17
+2026-01-01,Pedidosya,Ecuador,Credit Card,card,1028897,962733,31679
+2026-01-01,Pedidosya,El Salvador,Alternative Payment Method,wallet_tigo_money,47,0,36
+2026-01-01,Pedidosya,El Salvador,Credit Card,card,858389,826266,11019
+2026-01-01,Pedidosya,Guatemala,Alternative Payment Method,wallet,3023,2943,41
+2026-01-01,Pedidosya,Guatemala,Credit Card,card,843448,797198,20787
+2026-01-01,Pedidosya,Honduras,Alternative Payment Method,wallet,2388,2363,16
+2026-01-01,Pedidosya,Honduras,Alternative Payment Method,wallet_tigo_money,467,87,255
+2026-01-01,Pedidosya,Honduras,Credit Card,card,742536,702397,19456
+2026-01-01,Pedidosya,Nicaragua,Credit Card,card,455924,436281,8505
+2026-01-01,Pedidosya,Panama,Alternative Payment Method,wallet,4480,4440,32
+2026-01-01,Pedidosya,Panama,Credit Card,card,732321,696481,22463
+2026-01-01,Pedidosya,Paraguay,Alternative Payment Method,wallet,675,533,101
+2026-01-01,Pedidosya,Paraguay,Alternative Payment Method,wallet_tigo_money,2345,1946,276
+2026-01-01,Pedidosya,Paraguay,Credit Card,card,629352,600278,11829
+2026-01-01,Pedidosya,Peru,Alternative Payment Method,dlocal_wallet,539660,424542,63092
+2026-01-01,Pedidosya,Peru,Alternative Payment Method,wallet,8940,8858,54
+2026-01-01,Pedidosya,Peru,Credit Card,card,1456463,1371032,53407
+2026-01-01,Pedidosya,Uruguay,Credit Card,card,1346272,1316461,8388
+2026-01-01,Pedidosya,Venezuela,Alternative Payment Method,debito_inmediato,6976,0,72
+2026-01-01,Pedidosya,Venezuela,Alternative Payment Method,national_card,3207,0,55
+2026-01-01,Pedidosya,Venezuela,Alternative Payment Method,pago_movil_online,169654,132371,2825
+2026-01-01,Pedidosya,Venezuela,Alternative Payment Method,wallet,373,372,1
+2026-01-01,Pedidosya,Venezuela,Credit Card,card,16712,14232,676
+2026-01-01,Talabat,Bahrain,Alternative Payment Method,bahrain benefit,125809,97303,19420
+2026-01-01,Talabat,Bahrain,Alternative Payment Method,benefit pay,220003,185168,25572
+2026-01-01,Talabat,Bahrain,Alternative Payment Method,talabat pay,67897,53688,8178
+2026-01-01,Talabat,Bahrain,Credit Card,apple pay,1127591,1110290,8903
+2026-01-01,Talabat,Bahrain,Credit Card,credit card,453059,430357,12237
+2026-01-01,Talabat,Egypt,Alternative Payment Method,bnpl,26671,26159,320
+2026-01-01,Talabat,Egypt,Alternative Payment Method,talabat pay,462439,437567,11114
+2026-01-01,Talabat,Egypt,Alternative Payment Method,unknown,20,0,1
+2026-01-01,Talabat,Egypt,Credit Card,apple pay,2126566,2061176,36101
+2026-01-01,Talabat,Egypt,Credit Card,credit card,5287638,5002912,145056
+2026-01-01,Talabat,Iraq,Alternative Payment Method,switch_credit card,315743,247347,54336
+2026-01-01,Talabat,Iraq,Alternative Payment Method,switch_talabat pay,4586,3647,429
+2026-01-01,Talabat,Iraq,Alternative Payment Method,talabat pay,5820,5781,17
+2026-01-01,Talabat,Iraq,Alternative Payment Method,unknown,25,10,1
+2026-01-01,Talabat,Iraq,Credit Card,credit card,2379,44,1897
+2026-01-01,Talabat,Jordan,Alternative Payment Method,talabat pay,85778,78769,2615
+2026-01-01,Talabat,Jordan,Credit Card,apple pay,588611,566132,11769
+2026-01-01,Talabat,Jordan,Credit Card,credit card,935655,864694,37609
+2026-01-01,Talabat,Kuwait,Alternative Payment Method,knet,2437331,2163454,109863
+2026-01-01,Talabat,Kuwait,Alternative Payment Method,talabat pay,255646,226001,12721
+2026-01-01,Talabat,Kuwait,Credit Card,apple pay,4364241,4258605,48308
+2026-01-01,Talabat,Kuwait,Credit Card,credit card,1117509,1059600,29864
+2026-01-01,Talabat,Kuwait,Credit Card,google pay,30348,29217,647
+2026-01-01,Talabat,Oman,Alternative Payment Method,talabat pay,61435,57149,1699
+2026-01-01,Talabat,Oman,Credit Card,apple pay,913113,897419,6642
+2026-01-01,Talabat,Oman,Credit Card,credit card,1525937,1462317,23312
+2026-01-01,Talabat,Qatar,Alternative Payment Method,qpay,192453,107297,61767
+2026-01-01,Talabat,Qatar,Alternative Payment Method,talabat pay,114660,107768,3410
+2026-01-01,Talabat,Qatar,Credit Card,apple pay,1839892,1796371,15228
+2026-01-01,Talabat,Qatar,Credit Card,credit card,846824,799827,21745
+2026-01-01,Talabat,Qatar,Credit Card,google pay,56573,53998,1271
+2026-01-01,Talabat,United Arab Emirates,Alternative Payment Method,bnpl,1830028,1813571,8160
+2026-01-01,Talabat,United Arab Emirates,Alternative Payment Method,talabat pay,427408,398881,15525
+2026-01-01,Talabat,United Arab Emirates,Credit Card,apple pay,7063977,6943698,48612
+2026-01-01,Talabat,United Arab Emirates,Credit Card,credit card,3688085,3529655,69604
+2026-01-01,Talabat,United Arab Emirates,Credit Card,google pay,101270,97157,1518
+2026-02-01,Efood,Cyprus,Alternative Payment Method,paypal,692,670,9
+2026-02-01,Efood,Cyprus,Credit Card,applepay,158221,156717,521
+2026-02-01,Efood,Cyprus,Credit Card,card,434797,422103,6890
+2026-02-01,Efood,Cyprus,Credit Card,googlepay,25885,25569,148
+2026-02-01,Efood,Greece,Alternative Payment Method,paypal,3674,3606,33
+2026-02-01,Efood,Greece,Alternative Payment Method,revolutpay,18346,14690,2531
+2026-02-01,Efood,Greece,Credit Card,applepay,1325042,1310233,8712
+2026-02-01,Efood,Greece,Credit Card,card,3694131,3513216,117768
+2026-02-01,Efood,Greece,Credit Card,googlepay,334591,326863,4439
+2026-02-01,Glovo,Armenia,Credit Card,apple_pay,37757,36345,656
+2026-02-01,Glovo,Armenia,Credit Card,credit_card,62601,59705,982
+2026-02-01,Glovo,Armenia,Credit Card,google_pay,8367,8070,128
+2026-02-01,Glovo,Bosnia and Herzegovina,Credit Card,apple_pay,1,0,1
+2026-02-01,Glovo,Bosnia and Herzegovina,Credit Card,credit_card,65703,60581,2442
+2026-02-01,Glovo,Bulgaria,Credit Card,apple_pay,126072,123834,701
+2026-02-01,Glovo,Bulgaria,Credit Card,credit_card,156321,149535,3354
+2026-02-01,Glovo,Bulgaria,Credit Card,google_pay,47769,45254,1085
+2026-02-01,Glovo,Croatia,Credit Card,apple_pay,55814,54736,421
+2026-02-01,Glovo,Croatia,Credit Card,credit_card,191599,182759,4029
+2026-02-01,Glovo,Croatia,Credit Card,google_pay,45833,44055,767
+2026-02-01,Glovo,Georgia,Credit Card,apple_pay,272176,267703,949
+2026-02-01,Glovo,Georgia,Credit Card,credit_card,456368,433643,8594
+2026-02-01,Glovo,Georgia,Credit Card,google_pay,67230,64272,1027
+2026-02-01,Glovo,Italy,Alternative Payment Method,edenred_apple_pay,19537,17617,851
+2026-02-01,Glovo,Italy,Alternative Payment Method,edenred_credit_card,16400,14955,542
+2026-02-01,Glovo,Italy,Alternative Payment Method,edenred_google_pay,4191,3837,105
+2026-02-01,Glovo,Italy,Alternative Payment Method,edenred_paypal,11880,10314,636
+2026-02-01,Glovo,Italy,Alternative Payment Method,paypal,411781,399223,5953
+2026-02-01,Glovo,Italy,Credit Card,apple_pay,893840,868651,10817
+2026-02-01,Glovo,Italy,Credit Card,credit_card,1431906,1338742,32016
+2026-02-01,Glovo,Italy,Credit Card,google_pay,224665,212038,4950
+2026-02-01,Glovo,Ivory Coast,Credit Card,apple_pay,6064,5586,210
+2026-02-01,Glovo,Ivory Coast,Credit Card,credit_card,75006,63517,6087
+2026-02-01,Glovo,Ivory Coast,Credit Card,google_pay,5368,3784,830
+2026-02-01,Glovo,Kazakhstan,Alternative Payment Method,kaspi,174731,149858,8335
+2026-02-01,Glovo,Kazakhstan,Alternative Payment Method,kaspi_direct,41188,33655,32
+2026-02-01,Glovo,Kazakhstan,Credit Card,apple_pay,42483,40746,1003
+2026-02-01,Glovo,Kazakhstan,Credit Card,credit_card,277062,259874,6376
+2026-02-01,Glovo,Kazakhstan,Credit Card,google_pay,10257,9172,425
+2026-02-01,Glovo,Kenya,Alternative Payment Method,cellulant_native,199504,166337,7679
+2026-02-01,Glovo,Kenya,Credit Card,apple_pay,15324,14511,249
+2026-02-01,Glovo,Kenya,Credit Card,credit_card,146724,122078,9893
+2026-02-01,Glovo,Kenya,Credit Card,google_pay,31593,21664,5361
+2026-02-01,Glovo,Kyrgyzstan,Credit Card,credit_card,142465,131554,4838
+2026-02-01,Glovo,Kyrgyzstan,Credit Card,google_pay,9551,7453,890
+2026-02-01,Glovo,Moldova,Credit Card,credit_card,85001,77434,2255
+2026-02-01,Glovo,Moldova,Credit Card,google_pay,2,0,0
+2026-02-01,Glovo,Montenegro,Credit Card,apple_pay,1,0,0
+2026-02-01,Glovo,Montenegro,Credit Card,credit_card,77650,72462,2253
+2026-02-01,Glovo,Morocco,Credit Card,apple_pay,371,64,178
+2026-02-01,Glovo,Morocco,Credit Card,credit_card,1531061,1399092,33281
+2026-02-01,Glovo,Morocco,Credit Card,google_pay,1,0,0
+2026-02-01,Glovo,Nigeria,Alternative Payment Method,paystack,203750,152182,10099
+2026-02-01,Glovo,Nigeria,Credit Card,apple_pay,6137,5532,172
+2026-02-01,Glovo,Nigeria,Credit Card,credit_card,200961,175334,6009
+2026-02-01,Glovo,Poland,Alternative Payment Method,blik,511547,479281,12026
+2026-02-01,Glovo,Poland,Credit Card,apple_pay,848172,835447,4852
+2026-02-01,Glovo,Poland,Credit Card,credit_card,489336,461465,17089
+2026-02-01,Glovo,Poland,Credit Card,google_pay,363761,350104,7289
+2026-02-01,Glovo,Portugal,Alternative Payment Method,mb_way,377717,345000,7978
+2026-02-01,Glovo,Portugal,Alternative Payment Method,paypal,50209,46959,1745
+2026-02-01,Glovo,Portugal,Credit Card,apple_pay,250447,243288,2353
+2026-02-01,Glovo,Portugal,Credit Card,credit_card,489615,427949,26962
+2026-02-01,Glovo,Portugal,Credit Card,google_pay,72387,65524,2693
+2026-02-01,Glovo,Romania,Alternative Payment Method,edenred_apple_pay,6614,6259,172
+2026-02-01,Glovo,Romania,Alternative Payment Method,edenred_credit_card,9538,9065,193
+2026-02-01,Glovo,Romania,Alternative Payment Method,edenred_google_pay,2652,2467,69
+2026-02-01,Glovo,Romania,Credit Card,apple_pay,566192,553821,3357
+2026-02-01,Glovo,Romania,Credit Card,credit_card,911750,857867,22251
+2026-02-01,Glovo,Romania,Credit Card,google_pay,202873,193801,3137
+2026-02-01,Glovo,Serbia,Credit Card,apple_pay,40023,38734,541
+2026-02-01,Glovo,Serbia,Credit Card,credit_card,339457,325036,7687
+2026-02-01,Glovo,Serbia,Credit Card,google_pay,17145,14507,1336
+2026-02-01,Glovo,Spain,Alternative Payment Method,paypal,282021,273609,3914
+2026-02-01,Glovo,Spain,Credit Card,apple_pay,1767076,1735527,6515
+2026-02-01,Glovo,Spain,Credit Card,credit_card,2970890,2834304,43812
+2026-02-01,Glovo,Spain,Credit Card,google_pay,462201,440680,6712
+2026-02-01,Glovo,Tunisia,Credit Card,credit_card,101837,73732,11870
+2026-02-01,Glovo,Tunisia,Credit Card,google_pay,1,0,1
+2026-02-01,Glovo,Uganda,Alternative Payment Method,cellulant_native,54531,43299,4436
+2026-02-01,Glovo,Uganda,Credit Card,apple_pay,3766,3585,71
+2026-02-01,Glovo,Uganda,Credit Card,credit_card,31159,26293,2138
+2026-02-01,Glovo,Uganda,Credit Card,google_pay,4555,3307,575
+2026-02-01,Glovo,Ukraine,Credit Card,apple_pay,853417,840814,3301
+2026-02-01,Glovo,Ukraine,Credit Card,credit_card,304177,284720,8811
+2026-02-01,Glovo,Ukraine,Credit Card,google_pay,270364,256286,3712
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,mada,1405399,1164240,36432
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,mada_apple_pay,7345444,7068601,22970
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mada_mixed-wallet, mada_apple_pay",434090,411993,2184
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, apple_pay",156816,150743,514
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, credit_card",42692,40380,365
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, mada",71836,60042,1119
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, stcpay",6485,4744,109
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, tabby",36666,30148,1099
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,"mixed-wallet, tamara",43128,30150,1173
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,stcpay,92815,75358,908
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,tabby,838670,633662,36297
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,tamara,885919,604055,24
+2026-02-01,Hungerstation,Saudi Arabia,Alternative Payment Method,wallet,259293,259107,0
+2026-02-01,Hungerstation,Saudi Arabia,Credit Card,apple_pay,2834076,2711107,48305
+2026-02-01,Hungerstation,Saudi Arabia,Credit Card,credit_card,908606,855351,14429
+2026-02-01,Pandora,Austria,Alternative Payment Method,adyen_hpp_sofort,57805,50076,2954
+2026-02-01,Pandora,Austria,Alternative Payment Method,balance,406,405,1
+2026-02-01,Pandora,Austria,Alternative Payment Method,klarna,34381,28462,1475
+2026-02-01,Pandora,Austria,Alternative Payment Method,no_payment,16,16,0
+2026-02-01,Pandora,Austria,Alternative Payment Method,paypal,253508,245428,2838
+2026-02-01,Pandora,Austria,Credit Card,adyen,461563,448555,3704
+2026-02-01,Pandora,Austria,Credit Card,applepay,347210,342681,1548
+2026-02-01,Pandora,Austria,Credit Card,googlepay,30188,29295,330
+2026-02-01,Pandora,Bangladesh,Alternative Payment Method,antfinancial_bkash,374008,322545,28754
+2026-02-01,Pandora,Bangladesh,Alternative Payment Method,balance,9234,9093,31
+2026-02-01,Pandora,Bangladesh,Alternative Payment Method,ssl_online_payment,4647,2732,816
+2026-02-01,Pandora,Bangladesh,Alternative Payment Method,ssl_standalone_payment,26949,20182,3027
+2026-02-01,Pandora,Bangladesh,Credit Card,cybersource_creditcard,354729,340272,6177
+2026-02-01,Pandora,Bangladesh,Credit Card,generic_creditcard,2,0,0
+2026-02-01,Pandora,Cambodia,Alternative Payment Method,aba_pay,274351,258471,9181
+2026-02-01,Pandora,Cambodia,Alternative Payment Method,no_payment,27,27,0
+2026-02-01,Pandora,Cambodia,Credit Card,generic_creditcard,67584,64847,1239
+2026-02-01,Pandora,Czech Republic,Alternative Payment Method,balance,337,335,2
+2026-02-01,Pandora,Czech Republic,Alternative Payment Method,no_payment,7,6,1
+2026-02-01,Pandora,Czech Republic,Alternative Payment Method,payu_twisto,21482,14291,1212
+2026-02-01,Pandora,Czech Republic,Credit Card,adyen,492714,482662,3547
+2026-02-01,Pandora,Czech Republic,Credit Card,applepay,451385,448519,753
+2026-02-01,Pandora,Czech Republic,Credit Card,googlepay,116709,114818,739
+2026-02-01,Pandora,Hong Kong,Alternative Payment Method,adyen_wechatpay,56864,53230,1621
+2026-02-01,Pandora,Hong Kong,Alternative Payment Method,antfinancial_alipay,519635,508837,7057
+2026-02-01,Pandora,Hong Kong,Alternative Payment Method,antfinancial_alipaycn,10288,8776,991
+2026-02-01,Pandora,Hong Kong,Alternative Payment Method,balance,36,36,0
+2026-02-01,Pandora,Hong Kong,Alternative Payment Method,gift_card,2152,2150,2
+2026-02-01,Pandora,Hong Kong,Alternative Payment Method,hsbc_payme,399021,383849,7694
+2026-02-01,Pandora,Hong Kong,Alternative Payment Method,no_payment,2,0,2
+2026-02-01,Pandora,Hong Kong,Credit Card,adyen,148,134,3
+2026-02-01,Pandora,Hong Kong,Credit Card,generic_applepay,757286,753371,2737
+2026-02-01,Pandora,Hong Kong,Credit Card,generic_creditcard,751320,738936,7666
+2026-02-01,Pandora,Hong Kong,Credit Card,generic_googlepay,35192,34363,402
+2026-02-01,Pandora,Hungary,Alternative Payment Method,bigfish_szep_kh,13524,11177,1431
+2026-02-01,Pandora,Hungary,Alternative Payment Method,bigfish_szep_mkb,14621,13474,566
+2026-02-01,Pandora,Hungary,Alternative Payment Method,bigfish_szep_otp,174988,158495,8233
+2026-02-01,Pandora,Hungary,Alternative Payment Method,no_payment,1,1,0
+2026-02-01,Pandora,Hungary,Credit Card,adyen,597331,584548,4092
+2026-02-01,Pandora,Hungary,Credit Card,applepay,332208,328359,1595
+2026-02-01,Pandora,Hungary,Credit Card,googlepay,76725,75529,368
+2026-02-01,Pandora,Laos,Credit Card,cybersource_creditcard,10073,8794,455
+2026-02-01,Pandora,Malaysia,Alternative Payment Method,adyen_hpp_boost,19885,16918,1199
+2026-02-01,Pandora,Malaysia,Alternative Payment Method,antfinancial_tng,898012,851750,26594
+2026-02-01,Pandora,Malaysia,Alternative Payment Method,gift_card,567,566,0
+2026-02-01,Pandora,Malaysia,Alternative Payment Method,maybankcasa,18715,11442,5575
+2026-02-01,Pandora,Malaysia,Alternative Payment Method,no_payment,297,297,0
+2026-02-01,Pandora,Malaysia,Alternative Payment Method,razer_online_banking,2136164,2011708,34440
+2026-02-01,Pandora,Malaysia,Alternative Payment Method,tng_wallet_tng_wallet,443293,439019,1862
+2026-02-01,Pandora,Malaysia,Credit Card,adyen,54545,52222,1616
+2026-02-01,Pandora,Malaysia,Credit Card,cybersource_applepay,233507,229534,2544
+2026-02-01,Pandora,Malaysia,Credit Card,cybersource_creditcard,1076072,1032177,25086
+2026-02-01,Pandora,Myanmar,Alternative Payment Method,no_payment,126,126,0
+2026-02-01,Pandora,Myanmar,Alternative Payment Method,wavepay,58888,50474,4375
+2026-02-01,Pandora,Myanmar,Credit Card,generic_creditcard,58094,52525,3220
+2026-02-01,Pandora,Norway,Alternative Payment Method,balance,113,113,0
+2026-02-01,Pandora,Norway,Alternative Payment Method,klarna,66389,58220,2301
+2026-02-01,Pandora,Norway,Alternative Payment Method,no_payment,32,32,0
+2026-02-01,Pandora,Norway,Alternative Payment Method,paypal,6423,5973,223
+2026-02-01,Pandora,Norway,Alternative Payment Method,trustly_online_banking,772,348,174
+2026-02-01,Pandora,Norway,Alternative Payment Method,vippsdirect,355202,341171,3045
+2026-02-01,Pandora,Norway,Credit Card,adyen,123089,117560,2144
+2026-02-01,Pandora,Norway,Credit Card,applepay,116843,115180,558
+2026-02-01,Pandora,Norway,Credit Card,googlepay,6200,5779,167
+2026-02-01,Pandora,Pakistan,Alternative Payment Method,antfinancial_easypaisa,527026,437477,44843
+2026-02-01,Pandora,Pakistan,Alternative Payment Method,balance,108232,106024,690
+2026-02-01,Pandora,Pakistan,Alternative Payment Method,gift_card,4503,4473,7
+2026-02-01,Pandora,Pakistan,Alternative Payment Method,jazzcash_wallet,233095,188279,24422
+2026-02-01,Pandora,Pakistan,Alternative Payment Method,no_payment,1,0,1
+2026-02-01,Pandora,Pakistan,Credit Card,generic_creditcard,2726604,2577411,53598
+2026-02-01,Pandora,Philippines,Alternative Payment Method,antfinancial_gcash,3377640,3177379,112794
+2026-02-01,Pandora,Philippines,Alternative Payment Method,balance,111611,110729,200
+2026-02-01,Pandora,Philippines,Alternative Payment Method,gift_card,28,28,0
+2026-02-01,Pandora,Philippines,Alternative Payment Method,no_payment,912,911,0
+2026-02-01,Pandora,Philippines,Alternative Payment Method,online_payment_on_delivery,8,8,0
+2026-02-01,Pandora,Philippines,Alternative Payment Method,paypal,1037,1018,4
+2026-02-01,Pandora,Philippines,Alternative Payment Method,postpaid_postpaid,3,0,2
+2026-02-01,Pandora,Philippines,Alternative Payment Method,riderqr,2,2,0
+2026-02-01,Pandora,Philippines,Alternative Payment Method,xendit_directdebit,108806,79277,18352
+2026-02-01,Pandora,Philippines,Credit Card,generic_creditcard,2176821,2055876,42067
+2026-02-01,Pandora,Singapore,Alternative Payment Method,balance,217734,210188,5518
+2026-02-01,Pandora,Singapore,Alternative Payment Method,gift_card,5291,5284,2
+2026-02-01,Pandora,Singapore,Alternative Payment Method,no_payment,4944,4944,0
+2026-02-01,Pandora,Singapore,Alternative Payment Method,paypal,22079,21143,450
+2026-02-01,Pandora,Singapore,Alternative Payment Method,reddot_paylah,89879,86329,1887
+2026-02-01,Pandora,Singapore,Credit Card,adyen,5181,4690,306
+2026-02-01,Pandora,Singapore,Credit Card,generic_applepay,410397,407750,1425
+2026-02-01,Pandora,Singapore,Credit Card,generic_creditcard,961470,945131,7895
+2026-02-01,Pandora,Singapore,Credit Card,generic_googlepay,76813,75695,459
+2026-02-01,Pandora,Sweden,Alternative Payment Method,adyen_hpp_swish,507601,484031,7412
+2026-02-01,Pandora,Sweden,Alternative Payment Method,klarna,500951,468149,6877
+2026-02-01,Pandora,Sweden,Alternative Payment Method,no_payment,527,527,0
+2026-02-01,Pandora,Sweden,Alternative Payment Method,paypal,13991,12299,855
+2026-02-01,Pandora,Sweden,Credit Card,adyen,304754,294340,3791
+2026-02-01,Pandora,Sweden,Credit Card,applepay,382334,377726,2150
+2026-02-01,Pandora,Sweden,Credit Card,googlepay,8856,8424,130
+2026-02-01,Pandora,Taiwan,Alternative Payment Method,balance,92898,92746,94
+2026-02-01,Pandora,Taiwan,Alternative Payment Method,globalpayments_pxpay,246598,235039,7085
+2026-02-01,Pandora,Taiwan,Alternative Payment Method,line_pay,1642076,1594771,32099
+2026-02-01,Pandora,Taiwan,Alternative Payment Method,no_payment,317,317,0
+2026-02-01,Pandora,Taiwan,Credit Card,cybersource_applepay,849743,840648,5820
+2026-02-01,Pandora,Taiwan,Credit Card,cybersource_creditcard,5758633,5661465,59752
+2026-02-01,Pandora,Turkey,Alternative Payment Method,balance,113323,112534,427
+2026-02-01,Pandora,Turkey,Alternative Payment Method,craftgate_edenred,208967,193248,2979
+2026-02-01,Pandora,Turkey,Alternative Payment Method,iyzico_yemeksepetipay,129903,104845,8955
+2026-02-01,Pandora,Turkey,Alternative Payment Method,multinet_mealcard,134849,124738,2382
+2026-02-01,Pandora,Turkey,Alternative Payment Method,no_payment,944,942,2
+2026-02-01,Pandora,Turkey,Alternative Payment Method,pluxee_mealcard,138366,130031,2224
+2026-02-01,Pandora,Turkey,Credit Card,yemekpay_creditcard,13052155,12539053,104851
+2026-02-01,Pedidosya,Argentina,Alternative Payment Method,wallet,97488,97289,90
+2026-02-01,Pedidosya,Argentina,Credit Card,card,10075934,9676896,128221
+2026-02-01,Pedidosya,Bolivia,Alternative Payment Method,dlocal_wallet,534443,469678,46416
+2026-02-01,Pedidosya,Bolivia,Alternative Payment Method,wallet,9474,9322,110
+2026-02-01,Pedidosya,Bolivia,Alternative Payment Method,wallet_tigo_money,126,100,24
+2026-02-01,Pedidosya,Bolivia,Credit Card,card,227709,207572,17398
+2026-02-01,Pedidosya,Chile,Alternative Payment Method,mach_pay,157391,142400,6546
+2026-02-01,Pedidosya,Chile,Alternative Payment Method,wallet,1577,1519,13
+2026-02-01,Pedidosya,Chile,Credit Card,card,2677041,2549017,25214
+2026-02-01,Pedidosya,Costa Rica,Alternative Payment Method,wallet,1076,1070,4
+2026-02-01,Pedidosya,Costa Rica,Credit Card,card,182179,169540,6197
+2026-02-01,Pedidosya,Dominican Republic,Alternative Payment Method,wallet,9565,9476,47
+2026-02-01,Pedidosya,Dominican Republic,Credit Card,card,1360078,1250124,37905
+2026-02-01,Pedidosya,Ecuador,Alternative Payment Method,wallet,6102,6057,26
+2026-02-01,Pedidosya,Ecuador,Credit Card,card,1000096,934048,31759
+2026-02-01,Pedidosya,El Salvador,Alternative Payment Method,wallet_tigo_money,13,0,9
+2026-02-01,Pedidosya,El Salvador,Credit Card,card,849511,818875,10735
+2026-02-01,Pedidosya,Guatemala,Alternative Payment Method,wallet,2817,2742,40
+2026-02-01,Pedidosya,Guatemala,Credit Card,card,834305,789127,19708
+2026-02-01,Pedidosya,Honduras,Alternative Payment Method,wallet,2468,2459,7
+2026-02-01,Pedidosya,Honduras,Alternative Payment Method,wallet_tigo_money,104,0,73
+2026-02-01,Pedidosya,Honduras,Credit Card,card,738028,698591,18715
+2026-02-01,Pedidosya,Nicaragua,Credit Card,card,447941,429374,7870
+2026-02-01,Pedidosya,Panama,Alternative Payment Method,wallet,4495,4435,33
+2026-02-01,Pedidosya,Panama,Credit Card,card,693257,659815,21349
+2026-02-01,Pedidosya,Paraguay,Alternative Payment Method,wallet,512,440,34
+2026-02-01,Pedidosya,Paraguay,Alternative Payment Method,wallet_tigo_money,763,665,65
+2026-02-01,Pedidosya,Paraguay,Credit Card,card,624929,596092,11468
+2026-02-01,Pedidosya,Peru,Alternative Payment Method,dlocal_wallet,537828,427398,59436
+2026-02-01,Pedidosya,Peru,Alternative Payment Method,wallet,8583,8478,58
+2026-02-01,Pedidosya,Peru,Credit Card,card,1406518,1323984,51637
+2026-02-01,Pedidosya,Uruguay,Credit Card,card,1344112,1314356,7679
+2026-02-01,Pedidosya,Venezuela,Alternative Payment Method,debito_inmediato,24013,0,311
+2026-02-01,Pedidosya,Venezuela,Alternative Payment Method,national_card,961,0,3
+2026-02-01,Pedidosya,Venezuela,Alternative Payment Method,pago_movil_online,164955,123232,2319
+2026-02-01,Pedidosya,Venezuela,Alternative Payment Method,wallet,317,312,3
+2026-02-01,Pedidosya,Venezuela,Credit Card,card,19559,16374,970
+2026-02-01,Talabat,Bahrain,Alternative Payment Method,bahrain benefit,148894,121652,17928
+2026-02-01,Talabat,Bahrain,Alternative Payment Method,benefit pay,155433,131998,16354
+2026-02-01,Talabat,Bahrain,Alternative Payment Method,talabat pay,61254,49265,6728
+2026-02-01,Talabat,Bahrain,Credit Card,apple pay,1014730,999388,7887
+2026-02-01,Talabat,Bahrain,Credit Card,credit card,393436,374283,10833
+2026-02-01,Talabat,Egypt,Alternative Payment Method,bnpl,34913,34175,466
+2026-02-01,Talabat,Egypt,Alternative Payment Method,talabat pay,444867,423700,9638
+2026-02-01,Talabat,Egypt,Alternative Payment Method,unknown,8,0,6
+2026-02-01,Talabat,Egypt,Credit Card,apple pay,1880958,1829039,29316
+2026-02-01,Talabat,Egypt,Credit Card,credit card,4625740,4394861,118067
+2026-02-01,Talabat,Iraq,Alternative Payment Method,switch_credit card,260014,198444,47472
+2026-02-01,Talabat,Iraq,Alternative Payment Method,switch_talabat pay,3768,2879,384
+2026-02-01,Talabat,Iraq,Alternative Payment Method,talabat pay,5507,5359,65
+2026-02-01,Talabat,Iraq,Alternative Payment Method,unknown,2198,30,1802
+2026-02-01,Talabat,Iraq,Credit Card,credit card,6025,6,4365
+2026-02-01,Talabat,Jordan,Alternative Payment Method,talabat pay,67831,62539,1818
+2026-02-01,Talabat,Jordan,Credit Card,apple pay,461670,445466,8483
+2026-02-01,Talabat,Jordan,Credit Card,credit card,756193,701322,28035
+2026-02-01,Talabat,Kuwait,Alternative Payment Method,knet,2123357,1883090,94733
+2026-02-01,Talabat,Kuwait,Alternative Payment Method,talabat pay,240504,213495,11419
+2026-02-01,Talabat,Kuwait,Credit Card,apple pay,3982983,3892787,42447
+2026-02-01,Talabat,Kuwait,Credit Card,credit card,1026464,973470,27664
+2026-02-01,Talabat,Kuwait,Credit Card,google pay,27039,25999,566
+2026-02-01,Talabat,Oman,Alternative Payment Method,talabat pay,57337,53605,1483
+2026-02-01,Talabat,Oman,Credit Card,apple pay,831326,817226,6062
+2026-02-01,Talabat,Oman,Credit Card,credit card,1330477,1279533,17892
+2026-02-01,Talabat,Qatar,Alternative Payment Method,qpay,239585,155468,57799
+2026-02-01,Talabat,Qatar,Alternative Payment Method,talabat pay,117753,105713,6336
+2026-02-01,Talabat,Qatar,Credit Card,apple pay,1758173,1719173,13098
+2026-02-01,Talabat,Qatar,Credit Card,credit card,650281,614342,17025
+2026-02-01,Talabat,Qatar,Credit Card,google pay,70144,66575,1799
+2026-02-01,Talabat,United Arab Emirates,Alternative Payment Method,bnpl,1700928,1686933,6649
+2026-02-01,Talabat,United Arab Emirates,Alternative Payment Method,talabat pay,419478,392307,14756
+2026-02-01,Talabat,United Arab Emirates,Credit Card,apple pay,6561032,6450510,45904
+2026-02-01,Talabat,United Arab Emirates,Credit Card,credit card,3364343,3225868,61404
+2026-02-01,Talabat,United Arab Emirates,Credit Card,google pay,96516,91963,1718

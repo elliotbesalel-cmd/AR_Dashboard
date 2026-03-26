@@ -1,0 +1,1908 @@
+Month,data_source,Country,Tx_Type,CC VS APM,First Payment Method,Fail Reason,Order Count,Success Order Count,Recovery Order Count,Fail Order Count
+2026-01,Foodora,Austria,CIT,Alternative Payment Method,invoice,NOT MAPPED,1,1,0,0
+2026-01,Foodora,Austria,CIT,Alternative Payment Method,klarna,Drops,352,0,0,352
+2026-01,Foodora,Austria,CIT,Alternative Payment Method,klarna,NOT MAPPED,886,878,8,0
+2026-01,Foodora,Austria,CIT,Alternative Payment Method,klarna,Payment Instrument Issues,53,0,0,53
+2026-01,Foodora,Austria,CIT,Alternative Payment Method,klarna,unknown,2,0,0,2
+2026-01,Foodora,Austria,CIT,Alternative Payment Method,no_payment,unknown,1,0,0,0
+2026-01,Foodora,Austria,CIT,Alternative Payment Method,require_payment,NOT MAPPED,5,0,0,0
+2026-01,Foodora,Austria,CIT,Credit Card,applepay,Drops,2,0,0,2
+2026-01,Foodora,Austria,CIT,Credit Card,applepay,Fraud Risk,1,0,0,1
+2026-01,Foodora,Austria,CIT,Credit Card,applepay,Generic Rejection,1,0,0,1
+2026-01,Foodora,Austria,CIT,Credit Card,applepay,Insufficient Funds,22,0,0,22
+2026-01,Foodora,Austria,CIT,Credit Card,applepay,NOT MAPPED,3974,3879,95,0
+2026-01,Foodora,Austria,CIT,Credit Card,applepay,Payment Instrument Issues,16,0,0,16
+2026-01,Foodora,Austria,CIT,Credit Card,applepay,Third Party System Error,1,0,0,1
+2026-01,Foodora,Austria,CIT,Credit Card,applepay,unknown,4,1,0,3
+2026-01,Foodora,Austria,CIT,Credit Card,credit_card,Drops,1600,0,0,1600
+2026-01,Foodora,Austria,CIT,Credit Card,credit_card,Fraud Risk,7,0,0,7
+2026-01,Foodora,Austria,CIT,Credit Card,credit_card,Generic Rejection,2,0,0,2
+2026-01,Foodora,Austria,CIT,Credit Card,credit_card,Insufficient Funds,15,0,0,15
+2026-01,Foodora,Austria,CIT,Credit Card,credit_card,NOT MAPPED,3850,3713,133,4
+2026-01,Foodora,Austria,CIT,Credit Card,credit_card,Payment Instrument Issues,241,0,0,241
+2026-01,Foodora,Austria,CIT,Credit Card,credit_card,Third Party System Error,4,0,0,4
+2026-01,Foodora,Austria,CIT,Credit Card,credit_card,unknown,8,0,0,8
+2026-01,Foodora,Austria,MIT,Alternative Payment Method,invoice,NOT MAPPED,63,63,0,0
+2026-01,Foodora,Austria,MIT,Alternative Payment Method,klarna,Drops,7,0,0,7
+2026-01,Foodora,Austria,MIT,Alternative Payment Method,klarna,NOT MAPPED,1547,1528,19,0
+2026-01,Foodora,Austria,MIT,Alternative Payment Method,klarna,Payment Instrument Issues,113,0,0,113
+2026-01,Foodora,Austria,MIT,Alternative Payment Method,klarna,unknown,2,2,0,0
+2026-01,Foodora,Austria,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,2,2,0,0
+2026-01,Foodora,Austria,MIT,Alternative Payment Method,no_payment_method,Technical Issues,807,0,0,807
+2026-01,Foodora,Austria,MIT,Alternative Payment Method,no_payment_method,unknown,3,0,0,3
+2026-01,Foodora,Austria,MIT,Credit Card,applepay,Fraud Risk,2,0,0,2
+2026-01,Foodora,Austria,MIT,Credit Card,applepay,Generic Rejection,37,0,0,37
+2026-01,Foodora,Austria,MIT,Credit Card,applepay,Insufficient Funds,612,0,0,612
+2026-01,Foodora,Austria,MIT,Credit Card,applepay,NOT MAPPED,6372,6055,313,4
+2026-01,Foodora,Austria,MIT,Credit Card,applepay,Payment Instrument Issues,393,0,0,393
+2026-01,Foodora,Austria,MIT,Credit Card,applepay,Third Party System Error,21,0,0,21
+2026-01,Foodora,Austria,MIT,Credit Card,applepay,unknown,14,12,0,2
+2026-01,Foodora,Austria,MIT,Credit Card,credit_card,Drops,88,0,0,88
+2026-01,Foodora,Austria,MIT,Credit Card,credit_card,Fraud Risk,17,0,0,17
+2026-01,Foodora,Austria,MIT,Credit Card,credit_card,Generic Rejection,3,0,0,3
+2026-01,Foodora,Austria,MIT,Credit Card,credit_card,Insufficient Funds,566,0,0,566
+2026-01,Foodora,Austria,MIT,Credit Card,credit_card,NOT MAPPED,9972,9476,488,7
+2026-01,Foodora,Austria,MIT,Credit Card,credit_card,Payment Instrument Issues,566,0,0,566
+2026-01,Foodora,Austria,MIT,Credit Card,credit_card,Third Party System Error,19,0,0,19
+2026-01,Foodora,Austria,MIT,Credit Card,credit_card,unknown,27,23,2,2
+2026-01,Foodora,Czech Republic,CIT,Alternative Payment Method,invoice,NOT MAPPED,541,541,0,0
+2026-01,Foodora,Czech Republic,CIT,Alternative Payment Method,no_payment,unknown,5,0,0,0
+2026-01,Foodora,Czech Republic,CIT,Alternative Payment Method,require_payment,NOT MAPPED,5,0,0,0
+2026-01,Foodora,Czech Republic,CIT,Alternative Payment Method,voucher,NOT MAPPED,2,2,0,0
+2026-01,Foodora,Czech Republic,CIT,Credit Card,applepay,Generic Rejection,2,0,0,2
+2026-01,Foodora,Czech Republic,CIT,Credit Card,applepay,Insufficient Funds,69,0,0,69
+2026-01,Foodora,Czech Republic,CIT,Credit Card,applepay,NOT MAPPED,7791,7635,156,0
+2026-01,Foodora,Czech Republic,CIT,Credit Card,applepay,Payment Instrument Issues,9,0,0,9
+2026-01,Foodora,Czech Republic,CIT,Credit Card,applepay,Third Party System Error,2,0,0,2
+2026-01,Foodora,Czech Republic,CIT,Credit Card,applepay,unknown,8,3,0,5
+2026-01,Foodora,Czech Republic,CIT,Credit Card,credit_card,Drops,2425,0,0,2423
+2026-01,Foodora,Czech Republic,CIT,Credit Card,credit_card,Fraud Risk,5,0,0,5
+2026-01,Foodora,Czech Republic,CIT,Credit Card,credit_card,Generic Rejection,3,0,0,3
+2026-01,Foodora,Czech Republic,CIT,Credit Card,credit_card,Insufficient Funds,31,0,0,31
+2026-01,Foodora,Czech Republic,CIT,Credit Card,credit_card,NOT MAPPED,7097,6932,159,6
+2026-01,Foodora,Czech Republic,CIT,Credit Card,credit_card,Payment Instrument Issues,117,0,0,117
+2026-01,Foodora,Czech Republic,CIT,Credit Card,credit_card,Third Party System Error,4,0,0,4
+2026-01,Foodora,Czech Republic,CIT,Credit Card,credit_card,unknown,20,0,0,20
+2026-01,Foodora,Czech Republic,MIT,Alternative Payment Method,invoice,NOT MAPPED,11258,11258,0,0
+2026-01,Foodora,Czech Republic,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-01,Foodora,Czech Republic,MIT,Alternative Payment Method,no_payment_method,Technical Issues,343,0,0,343
+2026-01,Foodora,Czech Republic,MIT,Alternative Payment Method,no_payment_method,unknown,6,0,0,6
+2026-01,Foodora,Czech Republic,MIT,Credit Card,applepay,Drops,2,0,0,2
+2026-01,Foodora,Czech Republic,MIT,Credit Card,applepay,Fraud Risk,4,0,0,4
+2026-01,Foodora,Czech Republic,MIT,Credit Card,applepay,Generic Rejection,426,0,0,426
+2026-01,Foodora,Czech Republic,MIT,Credit Card,applepay,Insufficient Funds,1911,0,0,1911
+2026-01,Foodora,Czech Republic,MIT,Credit Card,applepay,NOT MAPPED,15202,14454,748,0
+2026-01,Foodora,Czech Republic,MIT,Credit Card,applepay,Payment Instrument Issues,441,0,0,441
+2026-01,Foodora,Czech Republic,MIT,Credit Card,applepay,Third Party System Error,48,0,0,48
+2026-01,Foodora,Czech Republic,MIT,Credit Card,applepay,unknown,69,63,4,2
+2026-01,Foodora,Czech Republic,MIT,Credit Card,credit_card,Drops,153,0,0,153
+2026-01,Foodora,Czech Republic,MIT,Credit Card,credit_card,Fraud Risk,8,0,0,8
+2026-01,Foodora,Czech Republic,MIT,Credit Card,credit_card,Generic Rejection,2,0,0,2
+2026-01,Foodora,Czech Republic,MIT,Credit Card,credit_card,Insufficient Funds,1624,0,0,1624
+2026-01,Foodora,Czech Republic,MIT,Credit Card,credit_card,NOT MAPPED,23571,22416,1147,8
+2026-01,Foodora,Czech Republic,MIT,Credit Card,credit_card,Payment Instrument Issues,605,0,0,605
+2026-01,Foodora,Czech Republic,MIT,Credit Card,credit_card,Third Party System Error,71,0,0,71
+2026-01,Foodora,Czech Republic,MIT,Credit Card,credit_card,unknown,151,138,10,3
+2026-01,Foodora,Finland,CIT,Alternative Payment Method,klarna,Drops,205,0,0,205
+2026-01,Foodora,Finland,CIT,Alternative Payment Method,klarna,NOT MAPPED,560,554,6,0
+2026-01,Foodora,Finland,CIT,Alternative Payment Method,klarna,Payment Instrument Issues,63,0,0,63
+2026-01,Foodora,Finland,CIT,Alternative Payment Method,klarna,unknown,1,0,0,1
+2026-01,Foodora,Finland,CIT,Alternative Payment Method,require_payment,NOT MAPPED,2,0,0,0
+2026-01,Foodora,Finland,CIT,Credit Card,applepay,Fraud Risk,1,0,0,1
+2026-01,Foodora,Finland,CIT,Credit Card,applepay,Generic Rejection,1,0,0,1
+2026-01,Foodora,Finland,CIT,Credit Card,applepay,Insufficient Funds,24,0,0,24
+2026-01,Foodora,Finland,CIT,Credit Card,applepay,NOT MAPPED,1684,1673,11,0
+2026-01,Foodora,Finland,CIT,Credit Card,applepay,Payment Instrument Issues,2,0,0,2
+2026-01,Foodora,Finland,CIT,Credit Card,applepay,unknown,1,0,0,1
+2026-01,Foodora,Finland,CIT,Credit Card,credit_card,Drops,750,0,0,750
+2026-01,Foodora,Finland,CIT,Credit Card,credit_card,Generic Rejection,23,0,0,23
+2026-01,Foodora,Finland,CIT,Credit Card,credit_card,Insufficient Funds,9,0,0,9
+2026-01,Foodora,Finland,CIT,Credit Card,credit_card,NOT MAPPED,2335,2307,27,1
+2026-01,Foodora,Finland,CIT,Credit Card,credit_card,Payment Instrument Issues,56,0,0,56
+2026-01,Foodora,Finland,CIT,Credit Card,credit_card,unknown,5,0,0,5
+2026-01,Foodora,Finland,MIT,Alternative Payment Method,klarna,Drops,1,0,0,1
+2026-01,Foodora,Finland,MIT,Alternative Payment Method,klarna,NOT MAPPED,966,941,24,1
+2026-01,Foodora,Finland,MIT,Alternative Payment Method,klarna,Payment Instrument Issues,78,0,0,78
+2026-01,Foodora,Finland,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,5,5,0,0
+2026-01,Foodora,Finland,MIT,Alternative Payment Method,no_payment_method,Technical Issues,181,0,0,181
+2026-01,Foodora,Finland,MIT,Alternative Payment Method,no_payment_method,unknown,2,0,0,2
+2026-01,Foodora,Finland,MIT,Credit Card,applepay,Generic Rejection,64,0,0,64
+2026-01,Foodora,Finland,MIT,Credit Card,applepay,Insufficient Funds,298,0,0,298
+2026-01,Foodora,Finland,MIT,Credit Card,applepay,NOT MAPPED,2375,2236,138,1
+2026-01,Foodora,Finland,MIT,Credit Card,applepay,Payment Instrument Issues,38,0,0,38
+2026-01,Foodora,Finland,MIT,Credit Card,applepay,Third Party System Error,3,0,0,3
+2026-01,Foodora,Finland,MIT,Credit Card,applepay,unknown,3,2,0,1
+2026-01,Foodora,Finland,MIT,Credit Card,credit_card,Drops,73,0,0,73
+2026-01,Foodora,Finland,MIT,Credit Card,credit_card,Fraud Risk,12,0,0,12
+2026-01,Foodora,Finland,MIT,Credit Card,credit_card,Generic Rejection,1,0,0,1
+2026-01,Foodora,Finland,MIT,Credit Card,credit_card,Insufficient Funds,502,0,0,502
+2026-01,Foodora,Finland,MIT,Credit Card,credit_card,NOT MAPPED,8088,7664,418,6
+2026-01,Foodora,Finland,MIT,Credit Card,credit_card,Payment Instrument Issues,124,0,0,124
+2026-01,Foodora,Finland,MIT,Credit Card,credit_card,Third Party System Error,3,0,0,3
+2026-01,Foodora,Finland,MIT,Credit Card,credit_card,unknown,26,24,2,0
+2026-01,Foodora,Hungary,CIT,Alternative Payment Method,invoice,NOT MAPPED,39,39,0,0
+2026-01,Foodora,Hungary,CIT,Alternative Payment Method,no_payment,unknown,3,0,0,0
+2026-01,Foodora,Hungary,CIT,Alternative Payment Method,require_payment,NOT MAPPED,4,0,0,0
+2026-01,Foodora,Hungary,CIT,Credit Card,applepay,Fraud Risk,3,0,0,3
+2026-01,Foodora,Hungary,CIT,Credit Card,applepay,Generic Rejection,3,0,0,3
+2026-01,Foodora,Hungary,CIT,Credit Card,applepay,Insufficient Funds,72,0,0,72
+2026-01,Foodora,Hungary,CIT,Credit Card,applepay,NOT MAPPED,6559,6293,266,0
+2026-01,Foodora,Hungary,CIT,Credit Card,applepay,Payment Instrument Issues,10,0,0,10
+2026-01,Foodora,Hungary,CIT,Credit Card,applepay,Third Party System Error,6,0,0,6
+2026-01,Foodora,Hungary,CIT,Credit Card,applepay,unknown,19,1,0,18
+2026-01,Foodora,Hungary,CIT,Credit Card,credit_card,Drops,3462,0,0,3462
+2026-01,Foodora,Hungary,CIT,Credit Card,credit_card,Fraud Risk,3,0,0,3
+2026-01,Foodora,Hungary,CIT,Credit Card,credit_card,Generic Rejection,2,0,0,2
+2026-01,Foodora,Hungary,CIT,Credit Card,credit_card,Insufficient Funds,24,0,0,24
+2026-01,Foodora,Hungary,CIT,Credit Card,credit_card,NOT MAPPED,8641,8181,455,5
+2026-01,Foodora,Hungary,CIT,Credit Card,credit_card,Payment Instrument Issues,102,0,0,102
+2026-01,Foodora,Hungary,CIT,Credit Card,credit_card,Third Party System Error,7,0,0,7
+2026-01,Foodora,Hungary,CIT,Credit Card,credit_card,unknown,23,0,0,23
+2026-01,Foodora,Hungary,MIT,Alternative Payment Method,invoice,NOT MAPPED,1279,1279,0,0
+2026-01,Foodora,Hungary,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-01,Foodora,Hungary,MIT,Alternative Payment Method,no_payment_method,Technical Issues,672,0,0,672
+2026-01,Foodora,Hungary,MIT,Alternative Payment Method,no_payment_method,unknown,10,0,0,10
+2026-01,Foodora,Hungary,MIT,Credit Card,applepay,Drops,7,0,0,7
+2026-01,Foodora,Hungary,MIT,Credit Card,applepay,Fraud Risk,2,0,0,2
+2026-01,Foodora,Hungary,MIT,Credit Card,applepay,Generic Rejection,265,0,0,265
+2026-01,Foodora,Hungary,MIT,Credit Card,applepay,Insufficient Funds,1627,0,0,1627
+2026-01,Foodora,Hungary,MIT,Credit Card,applepay,NOT MAPPED,13039,12495,544,0
+2026-01,Foodora,Hungary,MIT,Credit Card,applepay,Payment Instrument Issues,613,0,0,613
+2026-01,Foodora,Hungary,MIT,Credit Card,applepay,Third Party System Error,64,0,0,64
+2026-01,Foodora,Hungary,MIT,Credit Card,applepay,unknown,62,53,6,3
+2026-01,Foodora,Hungary,MIT,Credit Card,credit_card,Drops,233,0,0,233
+2026-01,Foodora,Hungary,MIT,Credit Card,credit_card,Fraud Risk,3,0,0,3
+2026-01,Foodora,Hungary,MIT,Credit Card,credit_card,Generic Rejection,26,0,0,26
+2026-01,Foodora,Hungary,MIT,Credit Card,credit_card,Insufficient Funds,1769,0,0,1769
+2026-01,Foodora,Hungary,MIT,Credit Card,credit_card,NOT MAPPED,28833,27624,1205,4
+2026-01,Foodora,Hungary,MIT,Credit Card,credit_card,Payment Instrument Issues,1399,0,0,1399
+2026-01,Foodora,Hungary,MIT,Credit Card,credit_card,Third Party System Error,125,0,0,125
+2026-01,Foodora,Hungary,MIT,Credit Card,credit_card,unknown,182,171,8,3
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,invoice,NOT MAPPED,11,11,0,0
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,klarna,Drops,92,0,0,92
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,klarna,NOT MAPPED,1866,1865,1,0
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,klarna,Payment Instrument Issues,92,0,0,92
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,klarna,unknown,3,3,0,0
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,vippsdirect,Drops,17,0,0,17
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,vippsdirect,Generic Rejection,947,0,0,947
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,vippsdirect,NOT MAPPED,5447,5372,73,2
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,vippsdirect,unknown,6,0,0,6
+2026-01,Foodora,Norway,CIT,Alternative Payment Method,voucher,NOT MAPPED,1,1,0,0
+2026-01,Foodora,Norway,CIT,Credit Card,applepay,Generic Rejection,1,0,0,1
+2026-01,Foodora,Norway,CIT,Credit Card,applepay,Insufficient Funds,37,0,0,37
+2026-01,Foodora,Norway,CIT,Credit Card,applepay,NOT MAPPED,3661,3614,47,0
+2026-01,Foodora,Norway,CIT,Credit Card,applepay,Payment Instrument Issues,3,0,0,3
+2026-01,Foodora,Norway,CIT,Credit Card,applepay,Third Party System Error,36,0,0,36
+2026-01,Foodora,Norway,CIT,Credit Card,applepay,unknown,5,0,0,5
+2026-01,Foodora,Norway,CIT,Credit Card,credit_card,Drops,978,0,0,978
+2026-01,Foodora,Norway,CIT,Credit Card,credit_card,Generic Rejection,3,0,0,3
+2026-01,Foodora,Norway,CIT,Credit Card,credit_card,Insufficient Funds,28,0,0,28
+2026-01,Foodora,Norway,CIT,Credit Card,credit_card,NOT MAPPED,3147,3108,39,0
+2026-01,Foodora,Norway,CIT,Credit Card,credit_card,Payment Instrument Issues,174,0,0,174
+2026-01,Foodora,Norway,CIT,Credit Card,credit_card,Third Party System Error,13,0,0,13
+2026-01,Foodora,Norway,CIT,Credit Card,credit_card,unknown,5,0,0,5
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,invoice,NOT MAPPED,76,76,0,0
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,klarna,Drops,9,0,0,9
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,klarna,NOT MAPPED,3503,3442,61,0
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,klarna,Payment Instrument Issues,278,0,0,278
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,klarna,unknown,15,14,1,0
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,no_payment_method,Technical Issues,131,0,0,131
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,no_payment_method,unknown,1,0,0,1
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,Drops,2,0,0,2
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,Generic Rejection,1397,0,0,1396
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,NOT MAPPED,6792,6298,494,0
+2026-01,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,unknown,233,182,41,10
+2026-01,Foodora,Norway,MIT,Credit Card,applepay,Drops,1,0,0,1
+2026-01,Foodora,Norway,MIT,Credit Card,applepay,Fraud Risk,1,0,0,1
+2026-01,Foodora,Norway,MIT,Credit Card,applepay,Generic Rejection,166,0,0,166
+2026-01,Foodora,Norway,MIT,Credit Card,applepay,Insufficient Funds,710,0,0,710
+2026-01,Foodora,Norway,MIT,Credit Card,applepay,NOT MAPPED,4616,4210,406,0
+2026-01,Foodora,Norway,MIT,Credit Card,applepay,Payment Instrument Issues,105,0,0,105
+2026-01,Foodora,Norway,MIT,Credit Card,applepay,Third Party System Error,16,0,0,16
+2026-01,Foodora,Norway,MIT,Credit Card,applepay,unknown,22,21,1,0
+2026-01,Foodora,Norway,MIT,Credit Card,credit_card,Drops,62,0,0,62
+2026-01,Foodora,Norway,MIT,Credit Card,credit_card,Fraud Risk,1,0,0,1
+2026-01,Foodora,Norway,MIT,Credit Card,credit_card,Generic Rejection,5,0,0,5
+2026-01,Foodora,Norway,MIT,Credit Card,credit_card,Insufficient Funds,647,0,0,647
+2026-01,Foodora,Norway,MIT,Credit Card,credit_card,NOT MAPPED,8064,7490,574,0
+2026-01,Foodora,Norway,MIT,Credit Card,credit_card,Payment Instrument Issues,148,0,0,148
+2026-01,Foodora,Norway,MIT,Credit Card,credit_card,Third Party System Error,43,0,0,43
+2026-01,Foodora,Norway,MIT,Credit Card,credit_card,unknown,64,59,4,1
+2026-01,Foodora,Sweden,CIT,Alternative Payment Method,klarna,Drops,765,0,0,765
+2026-01,Foodora,Sweden,CIT,Alternative Payment Method,klarna,NOT MAPPED,9307,9274,32,1
+2026-01,Foodora,Sweden,CIT,Alternative Payment Method,klarna,Payment Instrument Issues,314,0,0,314
+2026-01,Foodora,Sweden,CIT,Alternative Payment Method,klarna,unknown,7,2,0,5
+2026-01,Foodora,Sweden,CIT,Credit Card,applepay,Generic Rejection,2,0,0,2
+2026-01,Foodora,Sweden,CIT,Credit Card,applepay,Insufficient Funds,91,0,0,91
+2026-01,Foodora,Sweden,CIT,Credit Card,applepay,NOT MAPPED,10525,10458,67,0
+2026-01,Foodora,Sweden,CIT,Credit Card,applepay,Payment Instrument Issues,61,0,0,61
+2026-01,Foodora,Sweden,CIT,Credit Card,applepay,Third Party System Error,6,0,0,6
+2026-01,Foodora,Sweden,CIT,Credit Card,applepay,unknown,7,3,0,4
+2026-01,Foodora,Sweden,CIT,Credit Card,credit_card,Drops,1105,0,0,1105
+2026-01,Foodora,Sweden,CIT,Credit Card,credit_card,Insufficient Funds,31,0,0,31
+2026-01,Foodora,Sweden,CIT,Credit Card,credit_card,NOT MAPPED,5517,5431,84,2
+2026-01,Foodora,Sweden,CIT,Credit Card,credit_card,Payment Instrument Issues,77,0,0,77
+2026-01,Foodora,Sweden,CIT,Credit Card,credit_card,Third Party System Error,9,0,0,9
+2026-01,Foodora,Sweden,CIT,Credit Card,credit_card,unknown,19,0,0,19
+2026-01,Foodora,Sweden,MIT,Alternative Payment Method,klarna,Drops,12,0,0,12
+2026-01,Foodora,Sweden,MIT,Alternative Payment Method,klarna,NOT MAPPED,22600,22410,189,1
+2026-01,Foodora,Sweden,MIT,Alternative Payment Method,klarna,Payment Instrument Issues,999,0,0,999
+2026-01,Foodora,Sweden,MIT,Alternative Payment Method,klarna,unknown,47,45,1,1
+2026-01,Foodora,Sweden,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-01,Foodora,Sweden,MIT,Alternative Payment Method,no_payment_method,Technical Issues,72,0,0,72
+2026-01,Foodora,Sweden,MIT,Alternative Payment Method,no_payment_method,unknown,8,0,0,8
+2026-01,Foodora,Sweden,MIT,Credit Card,applepay,Drops,2,0,0,2
+2026-01,Foodora,Sweden,MIT,Credit Card,applepay,Fraud Risk,2,0,0,2
+2026-01,Foodora,Sweden,MIT,Credit Card,applepay,Generic Rejection,132,0,0,132
+2026-01,Foodora,Sweden,MIT,Credit Card,applepay,Insufficient Funds,1912,0,0,1912
+2026-01,Foodora,Sweden,MIT,Credit Card,applepay,NOT MAPPED,15393,14292,1075,26
+2026-01,Foodora,Sweden,MIT,Credit Card,applepay,Payment Instrument Issues,337,0,0,337
+2026-01,Foodora,Sweden,MIT,Credit Card,applepay,Third Party System Error,24,0,0,24
+2026-01,Foodora,Sweden,MIT,Credit Card,applepay,unknown,88,75,10,3
+2026-01,Foodora,Sweden,MIT,Credit Card,credit_card,Drops,108,0,0,108
+2026-01,Foodora,Sweden,MIT,Credit Card,credit_card,Fraud Risk,2,0,0,2
+2026-01,Foodora,Sweden,MIT,Credit Card,credit_card,Generic Rejection,15,0,0,15
+2026-01,Foodora,Sweden,MIT,Credit Card,credit_card,Insufficient Funds,1116,0,0,1116
+2026-01,Foodora,Sweden,MIT,Credit Card,credit_card,NOT MAPPED,15777,14747,1009,21
+2026-01,Foodora,Sweden,MIT,Credit Card,credit_card,Payment Instrument Issues,251,0,0,251
+2026-01,Foodora,Sweden,MIT,Credit Card,credit_card,Third Party System Error,25,0,0,25
+2026-01,Foodora,Sweden,MIT,Credit Card,credit_card,unknown,126,111,11,4
+2026-01,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Drops,3606,0,0,3606
+2026-01,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Insufficient Funds,731,0,0,731
+2026-01,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,NOT MAPPED,7547,7375,155,17
+2026-01,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Payment Instrument Issues,694,0,0,694
+2026-01,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Third Party System Error,53,0,0,53
+2026-01,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,unknown,11,7,0,2
+2026-01,Foodpanda,Bangladesh,CIT,Alternative Payment Method,invoice,NOT MAPPED,744,744,0,0
+2026-01,Foodpanda,Bangladesh,CIT,Alternative Payment Method,no_payment,unknown,31,0,0,0
+2026-01,Foodpanda,Bangladesh,CIT,Alternative Payment Method,require_payment,NOT MAPPED,42,0,0,0
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,cart,NOT MAPPED,1027,1023,0,2
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,cart,Risk / Fraud Blocks,155,13,0,142
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Drops,749,0,0,749
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Fraud Risk,8,0,0,8
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Generic Rejection,72,0,0,72
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Insufficient Funds,36,0,0,36
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,NOT MAPPED,1791,1675,91,25
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Payment Instrument Issues,64,0,0,64
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Third Party System Error,38,0,0,38
+2026-01,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,unknown,60,0,0,59
+2026-01,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Drops,432,0,0,432
+2026-01,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Insufficient Funds,4265,0,0,4265
+2026-01,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,NOT MAPPED,23523,19772,3750,1
+2026-01,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Payment Instrument Issues,1964,0,0,1964
+2026-01,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Third Party System Error,136,0,0,136
+2026-01,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,unknown,16,12,3,1
+2026-01,Foodpanda,Bangladesh,MIT,Alternative Payment Method,invoice,NOT MAPPED,2356,2356,0,0
+2026-01,Foodpanda,Bangladesh,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,5,5,0,0
+2026-01,Foodpanda,Bangladesh,MIT,Alternative Payment Method,no_payment_method,Technical Issues,170,0,0,170
+2026-01,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Drops,88,0,0,88
+2026-01,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Fraud Risk,8,0,0,8
+2026-01,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Generic Rejection,582,0,0,582
+2026-01,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Insufficient Funds,1028,0,0,1028
+2026-01,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,NOT MAPPED,4572,4347,175,50
+2026-01,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Payment Instrument Issues,205,0,0,205
+2026-01,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Third Party System Error,99,0,0,99
+2026-01,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,unknown,5,1,0,4
+2026-01,Foodpanda,Cambodia,CIT,Alternative Payment Method,invoice,NOT MAPPED,3,3,0,0
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,cart,NOT MAPPED,1502,1502,0,0
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,cart,Risk / Fraud Blocks,71,3,0,68
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Drops,1074,0,0,1049
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Fraud Risk,11,0,0,11
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Generic Rejection,131,2,0,129
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Generic Rejection ,18,0,0,18
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Insufficient Funds,76,0,0,76
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,credit_card,NOT MAPPED,3633,3426,201,6
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Payment Instrument Issues,58,0,0,58
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Third Party System Error,26,4,0,22
+2026-01,Foodpanda,Cambodia,CIT,Credit Card,credit_card,unknown,19,0,0,19
+2026-01,Foodpanda,Cambodia,MIT,Alternative Payment Method,invoice,NOT MAPPED,115,115,0,0
+2026-01,Foodpanda,Cambodia,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-01,Foodpanda,Cambodia,MIT,Alternative Payment Method,no_payment_method,Technical Issues,1067,0,0,1067
+2026-01,Foodpanda,Cambodia,MIT,Alternative Payment Method,no_payment_method,unknown,1,0,0,1
+2026-01,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Drops,81,0,0,46
+2026-01,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Fraud Risk,22,0,0,22
+2026-01,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Generic Rejection,171,1,0,170
+2026-01,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Generic Rejection ,231,0,0,231
+2026-01,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Insufficient Funds,563,0,0,563
+2026-01,Foodpanda,Cambodia,MIT,Credit Card,credit_card,NOT MAPPED,5216,4831,384,1
+2026-01,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Payment Instrument Issues,164,0,0,164
+2026-01,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Third Party System Error,26,1,0,25
+2026-01,Foodpanda,Cambodia,MIT,Credit Card,credit_card,unknown,106,3,0,103
+2026-01,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Drops,835,0,0,828
+2026-01,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Fraud Risk,8,0,0,8
+2026-01,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Insufficient Funds,277,0,0,277
+2026-01,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,NOT MAPPED,7822,7748,74,0
+2026-01,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Payment Instrument Issues,39,0,0,39
+2026-01,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Third Party System Error,295,285,4,6
+2026-01,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,unknown,15,2,0,13
+2026-01,Foodpanda,Hong Kong,CIT,Alternative Payment Method,invoice,NOT MAPPED,160,160,0,0
+2026-01,Foodpanda,Hong Kong,CIT,Alternative Payment Method,no_payment,unknown,4,0,0,0
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Generic Rejection,5,0,0,5
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Generic Rejection ,1,0,0,1
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Insufficient Funds,23,0,0,23
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,applepay,NOT MAPPED,10467,10369,97,1
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Payment Instrument Issues,32,0,0,32
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,applepay,unknown,6,1,0,2
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,cart,Drops,112,91,0,21
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,cart,Generic Rejection,1,0,0,1
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,cart,Insufficient Funds,1,0,0,1
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,cart,NOT MAPPED,410,410,0,0
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,cart,Risk / Fraud Blocks,9,0,0,9
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,cart,Third Party System Error,26,21,0,5
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Drops,730,59,0,622
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Fraud Risk,15,0,0,15
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Generic Rejection,77,0,0,77
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Generic Rejection ,6,0,0,6
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Insufficient Funds,31,0,0,31
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,NOT MAPPED,3956,3832,123,1
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Payment Instrument Issues,35,0,0,35
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Third Party System Error,3,0,0,3
+2026-01,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,unknown,30,0,0,30
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Drops,150,0,0,95
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Fraud Risk,55,0,0,55
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Insufficient Funds,2047,0,0,2047
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,NOT MAPPED,12309,11880,429,0
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Payment Instrument Issues,211,0,0,211
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Third Party System Error,3082,2942,135,5
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,unknown,10,10,0,0
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,invoice,NOT MAPPED,2673,2673,0,0
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,5,5,0,0
+2026-01,Foodpanda,Hong Kong,MIT,Alternative Payment Method,no_payment_method,Technical Issues,331,0,0,331
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Fraud Risk,93,0,0,93
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Generic Rejection,59,0,0,59
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Insufficient Funds,392,0,0,392
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,applepay,NOT MAPPED,10596,10452,144,0
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Payment Instrument Issues,277,0,0,277
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Payment Instrument Issues ,18,0,0,18
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Third Party System Error,6,0,0,6
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,applepay,unknown,38,3,0,35
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Drops,55,5,0,30
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Fraud Risk,247,0,0,247
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Generic Rejection,53,0,0,53
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Generic Rejection ,7,0,0,7
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Insufficient Funds,349,0,0,349
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,NOT MAPPED,13255,13093,162,0
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Payment Instrument Issues,241,0,0,241
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Payment Instrument Issues ,15,0,0,15
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Third Party System Error,11,0,0,11
+2026-01,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,unknown,49,2,0,47
+2026-01,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,Drops,9789,0,0,9706
+2026-01,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,Insufficient Funds,3423,1,0,3422
+2026-01,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,NOT MAPPED,46843,45419,1423,1
+2026-01,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,Payment Instrument Issues,1043,0,0,1043
+2026-01,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,Third Party System Error,614,13,0,601
+2026-01,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,unknown,625,2,0,622
+2026-01,Foodpanda,Malaysia,CIT,Alternative Payment Method,invoice,NOT MAPPED,478,478,0,0
+2026-01,Foodpanda,Malaysia,CIT,Alternative Payment Method,no_payment,unknown,42,0,0,0
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,cart,Drops,438,363,0,75
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,cart,Fraud Risk,1,0,0,1
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,cart,Generic Rejection,3,0,0,3
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,cart,Insufficient Funds,8,0,0,8
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,cart,NOT MAPPED,751,749,0,2
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,cart,Payment Instrument Issues,4,0,0,4
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,cart,Risk / Fraud Blocks,41,7,0,34
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,cart,Third Party System Error,7,0,0,7
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Drops,1040,0,0,1019
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Fraud Risk,30,0,0,30
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Generic Rejection,90,0,0,90
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Generic Rejection ,5,0,0,5
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Insufficient Funds,729,0,0,729
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,credit_card,NOT MAPPED,14491,13867,615,9
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Payment Instrument Issues,1920,0,0,1920
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Third Party System Error,570,0,0,570
+2026-01,Foodpanda,Malaysia,CIT,Credit Card,credit_card,unknown,337,2,0,333
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,Drops,1388,0,0,809
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,Insufficient Funds,21108,0,0,21108
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,NOT MAPPED,108521,100144,8377,0
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,Payment Instrument Issues,4932,0,0,4932
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,Third Party System Error,4256,108,169,3979
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,unknown,238,41,5,192
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,invoice,NOT MAPPED,18019,18019,0,0
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,6,6,0,0
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,no_payment_method,Technical Issues,2710,0,0,2710
+2026-01,Foodpanda,Malaysia,MIT,Alternative Payment Method,no_payment_method,unknown,4,0,0,4
+2026-01,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Drops,79,0,0,52
+2026-01,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Fraud Risk,95,0,0,95
+2026-01,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Generic Rejection,192,0,0,192
+2026-01,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Generic Rejection ,3,0,0,3
+2026-01,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Insufficient Funds,5943,0,0,5943
+2026-01,Foodpanda,Malaysia,MIT,Credit Card,credit_card,NOT MAPPED,66143,62916,3227,0
+2026-01,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Payment Instrument Issues,2667,0,0,2667
+2026-01,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Third Party System Error,805,0,0,805
+2026-01,Foodpanda,Malaysia,MIT,Credit Card,credit_card,unknown,108,21,1,86
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Drops,11159,0,0,10969
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Generic Rejection ,16,0,0,16
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Insufficient Funds,1987,0,0,1987
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,NOT MAPPED,17125,15452,1553,120
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Payment Instrument Issues,1078,0,0,1078
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Third Party System Error,1188,767,90,329
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,unknown,983,91,10,881
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,invoice,NOT MAPPED,113,113,0,0
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,no_payment,unknown,12,0,0,0
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,require_payment,NOT MAPPED,23,0,0,0
+2026-01,Foodpanda,Pakistan,CIT,Alternative Payment Method,voucher,NOT MAPPED,89,83,6,0
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,cart,NOT MAPPED,1748,1732,0,16
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,cart,Risk / Fraud Blocks,419,69,0,350
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Drops,9860,811,33,8830
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Fraud Risk,244,0,0,244
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Generic Rejection,1371,0,0,1371
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Generic Rejection ,434,0,0,434
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Insufficient Funds,968,0,0,968
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,NOT MAPPED,27204,24575,2426,203
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Payment Instrument Issues,1215,0,0,1215
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Payment Instrument Issues ,37,0,0,37
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Third Party System Error,182,0,0,182
+2026-01,Foodpanda,Pakistan,CIT,Credit Card,credit_card,unknown,728,23,5,694
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Drops,704,0,0,324
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Insufficient Funds,6204,0,0,6204
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,NOT MAPPED,26819,21742,4889,188
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Payment Instrument Issues,4277,0,0,4277
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Third Party System Error,14684,5464,8833,387
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,unknown,58,13,2,43
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,invoice,NOT MAPPED,2175,2175,0,0
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,5,5,0,0
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,no_payment_method,Technical Issues,6001,0,0,6001
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,no_payment_method,Third Party System Error,1,0,0,1
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,no_payment_method,unknown,2,0,0,2
+2026-01,Foodpanda,Pakistan,MIT,Alternative Payment Method,voucher,NOT MAPPED,4,4,0,0
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Drops,430,41,0,228
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Fraud Risk,490,0,0,490
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Generic Rejection,1875,0,0,1875
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Generic Rejection ,94,0,0,94
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Insufficient Funds,6034,0,0,6034
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,NOT MAPPED,72948,66365,6416,167
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Payment Instrument Issues,2427,0,0,2427
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Payment Instrument Issues ,668,0,0,668
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Third Party System Error,19,0,0,19
+2026-01,Foodpanda,Pakistan,MIT,Credit Card,credit_card,unknown,493,34,4,455
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Drops,20544,0,0,20366
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Fraud Risk,485,2,0,483
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Generic Rejection ,3,0,0,3
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Insufficient Funds,9429,0,0,9429
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,NOT MAPPED,84913,83000,1903,10
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Payment Instrument Issues,880,0,0,880
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Third Party System Error,22,18,0,4
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,unknown,628,27,0,595
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,dh_wallet,Generic Rejection ,18,0,0,18
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,dh_wallet,NOT MAPPED,54416,54265,150,1
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,dh_wallet,unknown,358,8,0,350
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,invoice,NOT MAPPED,2011,2011,0,0
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,no_payment,unknown,72,0,0,0
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,no_payment_method,NOT MAPPED,1157,1157,0,0
+2026-01,Foodpanda,Philippines,CIT,Alternative Payment Method,require_payment,NOT MAPPED,114,0,0,0
+2026-01,Foodpanda,Philippines,CIT,Credit Card,cart,NOT MAPPED,24499,24284,0,215
+2026-01,Foodpanda,Philippines,CIT,Credit Card,cart,Risk / Fraud Blocks,1085,44,0,1041
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,Drops,7690,514,0,7043
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,Fraud Risk,408,0,0,408
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,Generic Rejection,594,0,0,594
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,Generic Rejection ,159,0,0,159
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,Insufficient Funds,577,0,0,577
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,NOT MAPPED,18565,17391,1077,97
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,Payment Instrument Issues,360,0,0,360
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,Payment Instrument Issues ,99,0,0,99
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,Third Party System Error,28,0,0,28
+2026-01,Foodpanda,Philippines,CIT,Credit Card,credit_card,unknown,368,8,1,359
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Drops,3212,0,0,1975
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Fraud Risk,14,0,0,14
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Generic Rejection ,1,0,0,1
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Insufficient Funds,54092,0,0,54092
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,NOT MAPPED,250619,215583,35036,0
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Payment Instrument Issues,2471,0,0,2471
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Third Party System Error,154,85,67,2
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,unknown,115,95,13,7
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,dh_wallet,Generic Rejection ,1,0,0,1
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,dh_wallet,NOT MAPPED,8535,8350,183,2
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,dh_wallet,unknown,6,1,0,5
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,invoice,NOT MAPPED,6434,6434,0,0
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,no_payment_method,Insufficient Funds,33850,0,0,33850
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,35228,35228,0,0
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,no_payment_method,Technical Issues,15330,0,0,15330
+2026-01,Foodpanda,Philippines,MIT,Alternative Payment Method,no_payment_method,unknown,21,0,0,21
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,Drops,319,28,0,173
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,Fraud Risk,1132,0,0,1132
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,Generic Rejection,1003,0,0,1003
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,Generic Rejection ,39,0,0,39
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,Insufficient Funds,4984,0,0,4984
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,NOT MAPPED,56388,53157,3020,211
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,Payment Instrument Issues,933,0,0,933
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,Payment Instrument Issues ,816,0,0,816
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,Third Party System Error,357,0,0,357
+2026-01,Foodpanda,Philippines,MIT,Credit Card,credit_card,unknown,524,24,2,498
+2026-01,Foodpanda,Singapore,CIT,Alternative Payment Method,invoice,NOT MAPPED,306,306,0,0
+2026-01,Foodpanda,Singapore,CIT,Alternative Payment Method,no_payment,unknown,4,0,0,0
+2026-01,Foodpanda,Singapore,CIT,Alternative Payment Method,require_payment,NOT MAPPED,2,0,0,0
+2026-01,Foodpanda,Singapore,CIT,Alternative Payment Method,voucher,NOT MAPPED,3,3,0,0
+2026-01,Foodpanda,Singapore,CIT,Credit Card,applepay,Fraud Risk,7,0,0,7
+2026-01,Foodpanda,Singapore,CIT,Credit Card,applepay,Generic Rejection,1,0,0,1
+2026-01,Foodpanda,Singapore,CIT,Credit Card,applepay,Generic Rejection ,7,0,0,7
+2026-01,Foodpanda,Singapore,CIT,Credit Card,applepay,Insufficient Funds,19,0,0,19
+2026-01,Foodpanda,Singapore,CIT,Credit Card,applepay,NOT MAPPED,7432,7128,303,1
+2026-01,Foodpanda,Singapore,CIT,Credit Card,applepay,Payment Instrument Issues,35,0,0,35
+2026-01,Foodpanda,Singapore,CIT,Credit Card,applepay,Third Party System Error,1,0,0,1
+2026-01,Foodpanda,Singapore,CIT,Credit Card,applepay,unknown,8,2,0,6
+2026-01,Foodpanda,Singapore,CIT,Credit Card,cart,NOT MAPPED,3275,3275,0,0
+2026-01,Foodpanda,Singapore,CIT,Credit Card,cart,Risk / Fraud Blocks,116,3,0,113
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,Drops,1705,205,0,1481
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,Fraud Risk,72,0,0,72
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,Generic Rejection,277,0,0,277
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,Generic Rejection ,14,0,0,14
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,Insufficient Funds,105,0,0,105
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,NOT MAPPED,13680,12789,883,8
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,Payment Instrument Issues,226,0,0,226
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,Payment Instrument Issues ,2,0,0,2
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,Third Party System Error,18,0,0,18
+2026-01,Foodpanda,Singapore,CIT,Credit Card,credit_card,unknown,121,6,0,115
+2026-01,Foodpanda,Singapore,MIT,Alternative Payment Method,invoice,NOT MAPPED,10961,10961,0,0
+2026-01,Foodpanda,Singapore,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,10,10,0,0
+2026-01,Foodpanda,Singapore,MIT,Alternative Payment Method,no_payment_method,Technical Issues,1481,0,0,1481
+2026-01,Foodpanda,Singapore,MIT,Alternative Payment Method,no_payment_method,unknown,2,0,0,2
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,Drops,2,1,0,1
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,Fraud Risk,105,0,0,105
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,Generic Rejection,144,0,0,144
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,Generic Rejection ,2,0,0,2
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,Insufficient Funds,706,0,0,706
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,NOT MAPPED,14129,13354,771,4
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,Payment Instrument Issues,319,0,0,319
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,Payment Instrument Issues ,21,0,0,21
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,Third Party System Error,27,0,0,27
+2026-01,Foodpanda,Singapore,MIT,Credit Card,applepay,unknown,15,3,0,12
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,Drops,120,20,0,76
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,Fraud Risk,509,0,0,509
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,Generic Rejection,109,0,0,109
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,Generic Rejection ,20,0,0,20
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,Insufficient Funds,1860,0,0,1860
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,NOT MAPPED,46226,43631,2519,76
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,Payment Instrument Issues,1169,0,0,1169
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,Payment Instrument Issues ,132,0,0,132
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,Third Party System Error,140,0,0,140
+2026-01,Foodpanda,Singapore,MIT,Credit Card,credit_card,unknown,90,17,0,73
+2026-01,Foodpanda,Taiwan,CIT,Alternative Payment Method,invoice,NOT MAPPED,1840,1840,0,0
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,cart,Drops,43,0,0,43
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,cart,Generic Rejection,6,0,0,6
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,cart,Insufficient Funds,18,0,0,18
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,cart,NOT MAPPED,2722,2722,0,0
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,cart,Payment Instrument Issues,6,0,0,6
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,cart,Risk / Fraud Blocks,47,2,0,45
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,cart,Third Party System Error,3,0,0,3
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Drops,9548,0,0,9316
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Fraud Risk,60,0,0,60
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Generic Rejection,174,0,0,174
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Generic Rejection ,20,0,0,20
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Insufficient Funds,1208,0,0,1208
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,credit_card,NOT MAPPED,63125,61333,1619,173
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Payment Instrument Issues,1387,0,0,1387
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Third Party System Error,518,7,0,511
+2026-01,Foodpanda,Taiwan,CIT,Credit Card,credit_card,unknown,178,3,0,174
+2026-01,Foodpanda,Taiwan,MIT,Alternative Payment Method,invoice,NOT MAPPED,6969,6969,0,0
+2026-01,Foodpanda,Taiwan,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,5,5,0,0
+2026-01,Foodpanda,Taiwan,MIT,Alternative Payment Method,no_payment_method,Technical Issues,760,0,0,760
+2026-01,Foodpanda,Taiwan,MIT,Alternative Payment Method,no_payment_method,unknown,1,0,0,1
+2026-01,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Drops,1293,0,0,771
+2026-01,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Fraud Risk,135,0,0,135
+2026-01,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Generic Rejection,479,0,0,479
+2026-01,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Generic Rejection ,1,0,0,1
+2026-01,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Insufficient Funds,9592,0,0,9592
+2026-01,Foodpanda,Taiwan,MIT,Credit Card,credit_card,NOT MAPPED,221075,216839,4232,4
+2026-01,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Payment Instrument Issues,3921,0,0,3921
+2026-01,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Third Party System Error,3427,0,0,3427
+2026-01,Foodpanda,Taiwan,MIT,Credit Card,credit_card,unknown,110,45,1,64
+2026-01,HungerStation,Saudi Arabia,CIT,Alternative Payment Method,mada_card,NOT MAPPED,43355,33999,0,9356
+2026-01,HungerStation,Saudi Arabia,CIT,Alternative Payment Method,unknown,NOT MAPPED,6,4,0,2
+2026-01,HungerStation,Saudi Arabia,CIT,Credit Card,applepay,NOT MAPPED,280866,227372,0,53494
+2026-01,HungerStation,Saudi Arabia,CIT,Credit Card,card,NOT MAPPED,17555,15891,0,1664
+2026-01,HungerStation,Saudi Arabia,MIT,Alternative Payment Method,mada_card,NOT MAPPED,12778,9099,0,3679
+2026-01,HungerStation,Saudi Arabia,MIT,Credit Card,applepay,NOT MAPPED,107898,76094,0,31804
+2026-01,HungerStation,Saudi Arabia,MIT,Credit Card,card,NOT MAPPED,9322,6649,0,2673
+2026-01,Yemeksepeti,Turkey,CIT,Alternative Payment Method,no_payment_method,NOT MAPPED,1,1,0,0
+2026-01,Yemeksepeti,Turkey,CIT,Credit Card,yemekpay_creditcard,Insufficient Funds,1,0,0,1
+2026-01,Yemeksepeti,Turkey,CIT,Credit Card,yemekpay_creditcard,NOT MAPPED,82,82,0,0
+2026-01,Yemeksepeti,Turkey,CIT,Credit Card,yemekpay_creditcard,unknown,7,0,0,7
+2026-01,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,Fraud Risk,2,0,0,2
+2026-01,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,Insufficient Funds,16,0,0,16
+2026-01,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,Technical Issues,2,0,0,2
+2026-01,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,Third Party System Error,3,0,0,3
+2026-01,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,unknown,18,0,0,18
+2026-01,Yemeksepeti,Turkey,MIT,Credit Card,yemekpay_creditcard,NOT MAPPED,133,133,0,0
+2026-02,Foodora,Austria,CIT,Alternative Payment Method,invoice,NOT MAPPED,1,1,0,0
+2026-02,Foodora,Austria,CIT,Alternative Payment Method,klarna,Drops,435,0,0,435
+2026-02,Foodora,Austria,CIT,Alternative Payment Method,klarna,NOT MAPPED,1045,1033,11,1
+2026-02,Foodora,Austria,CIT,Alternative Payment Method,klarna,Payment Instrument Issues,47,0,0,47
+2026-02,Foodora,Austria,CIT,Alternative Payment Method,klarna,unknown,3,1,0,1
+2026-02,Foodora,Austria,CIT,Alternative Payment Method,no_payment,unknown,2,0,0,0
+2026-02,Foodora,Austria,CIT,Alternative Payment Method,require_payment,NOT MAPPED,5,0,0,0
+2026-02,Foodora,Austria,CIT,Credit Card,applepay,Insufficient Funds,25,0,0,25
+2026-02,Foodora,Austria,CIT,Credit Card,applepay,NOT MAPPED,4585,4518,67,0
+2026-02,Foodora,Austria,CIT,Credit Card,applepay,Payment Instrument Issues,10,0,0,10
+2026-02,Foodora,Austria,CIT,Credit Card,applepay,Technical Issues,1,0,0,1
+2026-02,Foodora,Austria,CIT,Credit Card,applepay,Third Party System Error,3,0,0,3
+2026-02,Foodora,Austria,CIT,Credit Card,applepay,unknown,3,1,0,2
+2026-02,Foodora,Austria,CIT,Credit Card,credit_card,Drops,1880,0,0,1880
+2026-02,Foodora,Austria,CIT,Credit Card,credit_card,Fraud Risk,2,0,0,2
+2026-02,Foodora,Austria,CIT,Credit Card,credit_card,Insufficient Funds,12,0,0,12
+2026-02,Foodora,Austria,CIT,Credit Card,credit_card,NOT MAPPED,4481,4408,70,3
+2026-02,Foodora,Austria,CIT,Credit Card,credit_card,Payment Instrument Issues,421,0,0,421
+2026-02,Foodora,Austria,CIT,Credit Card,credit_card,Technical Issues,1,0,0,1
+2026-02,Foodora,Austria,CIT,Credit Card,credit_card,Third Party System Error,5,0,0,5
+2026-02,Foodora,Austria,CIT,Credit Card,credit_card,unknown,8,0,0,8
+2026-02,Foodora,Austria,MIT,Alternative Payment Method,invoice,NOT MAPPED,57,57,0,0
+2026-02,Foodora,Austria,MIT,Alternative Payment Method,klarna,Drops,11,0,0,11
+2026-02,Foodora,Austria,MIT,Alternative Payment Method,klarna,NOT MAPPED,1854,1816,38,0
+2026-02,Foodora,Austria,MIT,Alternative Payment Method,klarna,Payment Instrument Issues,155,0,0,155
+2026-02,Foodora,Austria,MIT,Alternative Payment Method,klarna,unknown,2,2,0,0
+2026-02,Foodora,Austria,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,2,2,0,0
+2026-02,Foodora,Austria,MIT,Alternative Payment Method,no_payment_method,Technical Issues,37,0,0,37
+2026-02,Foodora,Austria,MIT,Alternative Payment Method,no_payment_method,unknown,13,0,0,13
+2026-02,Foodora,Austria,MIT,Credit Card,applepay,Fraud Risk,3,0,0,3
+2026-02,Foodora,Austria,MIT,Credit Card,applepay,Generic Rejection,38,0,0,38
+2026-02,Foodora,Austria,MIT,Credit Card,applepay,Insufficient Funds,692,0,0,692
+2026-02,Foodora,Austria,MIT,Credit Card,applepay,NOT MAPPED,7012,6710,301,1
+2026-02,Foodora,Austria,MIT,Credit Card,applepay,Payment Instrument Issues,338,0,0,338
+2026-02,Foodora,Austria,MIT,Credit Card,applepay,Third Party System Error,16,0,0,16
+2026-02,Foodora,Austria,MIT,Credit Card,applepay,unknown,27,20,0,7
+2026-02,Foodora,Austria,MIT,Credit Card,credit_card,Drops,145,0,0,144
+2026-02,Foodora,Austria,MIT,Credit Card,credit_card,Fraud Risk,14,0,0,14
+2026-02,Foodora,Austria,MIT,Credit Card,credit_card,Generic Rejection,2,0,0,2
+2026-02,Foodora,Austria,MIT,Credit Card,credit_card,Generic Rejection ,3,0,0,3
+2026-02,Foodora,Austria,MIT,Credit Card,credit_card,Insufficient Funds,701,0,0,701
+2026-02,Foodora,Austria,MIT,Credit Card,credit_card,NOT MAPPED,11065,10715,347,3
+2026-02,Foodora,Austria,MIT,Credit Card,credit_card,Payment Instrument Issues,604,0,0,604
+2026-02,Foodora,Austria,MIT,Credit Card,credit_card,Third Party System Error,35,0,0,35
+2026-02,Foodora,Austria,MIT,Credit Card,credit_card,unknown,50,44,0,6
+2026-02,Foodora,Czech Republic,CIT,Alternative Payment Method,invoice,NOT MAPPED,277,277,0,0
+2026-02,Foodora,Czech Republic,CIT,Alternative Payment Method,no_payment,unknown,2,0,0,0
+2026-02,Foodora,Czech Republic,CIT,Alternative Payment Method,require_payment,NOT MAPPED,5,0,0,0
+2026-02,Foodora,Czech Republic,CIT,Credit Card,applepay,Insufficient Funds,66,0,0,66
+2026-02,Foodora,Czech Republic,CIT,Credit Card,applepay,NOT MAPPED,6058,5921,137,0
+2026-02,Foodora,Czech Republic,CIT,Credit Card,applepay,Payment Instrument Issues,17,0,0,17
+2026-02,Foodora,Czech Republic,CIT,Credit Card,applepay,Technical Issues,1,0,0,1
+2026-02,Foodora,Czech Republic,CIT,Credit Card,applepay,Third Party System Error,2,0,0,2
+2026-02,Foodora,Czech Republic,CIT,Credit Card,applepay,unknown,11,3,0,3
+2026-02,Foodora,Czech Republic,CIT,Credit Card,credit_card,Drops,2349,0,0,2349
+2026-02,Foodora,Czech Republic,CIT,Credit Card,credit_card,Fraud Risk,3,0,0,3
+2026-02,Foodora,Czech Republic,CIT,Credit Card,credit_card,Generic Rejection,2,0,0,2
+2026-02,Foodora,Czech Republic,CIT,Credit Card,credit_card,Insufficient Funds,35,0,0,35
+2026-02,Foodora,Czech Republic,CIT,Credit Card,credit_card,NOT MAPPED,5826,5714,111,1
+2026-02,Foodora,Czech Republic,CIT,Credit Card,credit_card,Payment Instrument Issues,150,0,0,150
+2026-02,Foodora,Czech Republic,CIT,Credit Card,credit_card,Technical Issues,2,0,0,2
+2026-02,Foodora,Czech Republic,CIT,Credit Card,credit_card,Third Party System Error,10,0,0,10
+2026-02,Foodora,Czech Republic,CIT,Credit Card,credit_card,unknown,17,1,0,11
+2026-02,Foodora,Czech Republic,MIT,Alternative Payment Method,invoice,NOT MAPPED,11743,11743,0,0
+2026-02,Foodora,Czech Republic,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-02,Foodora,Czech Republic,MIT,Alternative Payment Method,no_payment_method,Technical Issues,29,0,0,29
+2026-02,Foodora,Czech Republic,MIT,Alternative Payment Method,no_payment_method,unknown,12,0,0,12
+2026-02,Foodora,Czech Republic,MIT,Credit Card,applepay,Drops,2,0,0,2
+2026-02,Foodora,Czech Republic,MIT,Credit Card,applepay,Fraud Risk,6,0,0,6
+2026-02,Foodora,Czech Republic,MIT,Credit Card,applepay,Generic Rejection,351,0,0,351
+2026-02,Foodora,Czech Republic,MIT,Credit Card,applepay,Generic Rejection ,1,0,0,1
+2026-02,Foodora,Czech Republic,MIT,Credit Card,applepay,Insufficient Funds,1843,0,0,1843
+2026-02,Foodora,Czech Republic,MIT,Credit Card,applepay,NOT MAPPED,14563,13837,725,1
+2026-02,Foodora,Czech Republic,MIT,Credit Card,applepay,Payment Instrument Issues,513,0,0,513
+2026-02,Foodora,Czech Republic,MIT,Credit Card,applepay,Third Party System Error,49,0,0,49
+2026-02,Foodora,Czech Republic,MIT,Credit Card,applepay,unknown,105,96,7,2
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,Drops,124,0,0,124
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,Fraud Risk,19,0,0,19
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,Generic Rejection,7,0,0,7
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,Generic Rejection ,3,0,0,3
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,Insufficient Funds,1798,0,0,1798
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,NOT MAPPED,22900,21911,986,2
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,Payment Instrument Issues,716,0,0,716
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,Technical Issues,4,0,0,4
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,Third Party System Error,84,0,0,84
+2026-02,Foodora,Czech Republic,MIT,Credit Card,credit_card,unknown,181,155,8,18
+2026-02,Foodora,Finland,CIT,Alternative Payment Method,klarna,Drops,79,0,0,79
+2026-02,Foodora,Finland,CIT,Alternative Payment Method,klarna,NOT MAPPED,214,214,0,0
+2026-02,Foodora,Finland,CIT,Alternative Payment Method,klarna,Payment Instrument Issues,24,0,0,24
+2026-02,Foodora,Finland,CIT,Alternative Payment Method,klarna,unknown,1,0,0,0
+2026-02,Foodora,Finland,CIT,Alternative Payment Method,require_payment,NOT MAPPED,1,0,0,0
+2026-02,Foodora,Finland,CIT,Credit Card,applepay,Generic Rejection,1,0,0,1
+2026-02,Foodora,Finland,CIT,Credit Card,applepay,Insufficient Funds,6,0,0,6
+2026-02,Foodora,Finland,CIT,Credit Card,applepay,NOT MAPPED,682,682,0,0
+2026-02,Foodora,Finland,CIT,Credit Card,credit_card,Drops,345,0,0,345
+2026-02,Foodora,Finland,CIT,Credit Card,credit_card,Generic Rejection,14,0,0,14
+2026-02,Foodora,Finland,CIT,Credit Card,credit_card,Insufficient Funds,11,0,0,11
+2026-02,Foodora,Finland,CIT,Credit Card,credit_card,NOT MAPPED,937,930,7,0
+2026-02,Foodora,Finland,CIT,Credit Card,credit_card,Payment Instrument Issues,45,0,0,45
+2026-02,Foodora,Finland,CIT,Credit Card,credit_card,unknown,2,0,0,2
+2026-02,Foodora,Finland,MIT,Alternative Payment Method,klarna,Drops,1,0,0,1
+2026-02,Foodora,Finland,MIT,Alternative Payment Method,klarna,NOT MAPPED,333,321,12,0
+2026-02,Foodora,Finland,MIT,Alternative Payment Method,klarna,Payment Instrument Issues,28,0,0,28
+2026-02,Foodora,Finland,MIT,Alternative Payment Method,klarna,unknown,1,1,0,0
+2026-02,Foodora,Finland,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,1,1,0,0
+2026-02,Foodora,Finland,MIT,Alternative Payment Method,no_payment_method,Technical Issues,4,0,0,4
+2026-02,Foodora,Finland,MIT,Alternative Payment Method,no_payment_method,unknown,3,0,0,3
+2026-02,Foodora,Finland,MIT,Credit Card,applepay,Fraud Risk,1,0,0,1
+2026-02,Foodora,Finland,MIT,Credit Card,applepay,Generic Rejection,28,0,0,28
+2026-02,Foodora,Finland,MIT,Credit Card,applepay,Insufficient Funds,136,0,0,136
+2026-02,Foodora,Finland,MIT,Credit Card,applepay,NOT MAPPED,902,847,53,2
+2026-02,Foodora,Finland,MIT,Credit Card,applepay,Payment Instrument Issues,18,0,0,18
+2026-02,Foodora,Finland,MIT,Credit Card,applepay,unknown,3,3,0,0
+2026-02,Foodora,Finland,MIT,Credit Card,credit_card,Drops,27,0,0,27
+2026-02,Foodora,Finland,MIT,Credit Card,credit_card,Fraud Risk,6,0,0,6
+2026-02,Foodora,Finland,MIT,Credit Card,credit_card,Generic Rejection,2,0,0,2
+2026-02,Foodora,Finland,MIT,Credit Card,credit_card,Insufficient Funds,198,0,0,198
+2026-02,Foodora,Finland,MIT,Credit Card,credit_card,NOT MAPPED,3247,3067,169,9
+2026-02,Foodora,Finland,MIT,Credit Card,credit_card,Payment Instrument Issues,59,0,0,59
+2026-02,Foodora,Finland,MIT,Credit Card,credit_card,Third Party System Error,1,0,0,1
+2026-02,Foodora,Finland,MIT,Credit Card,credit_card,unknown,20,17,1,2
+2026-02,Foodora,Hungary,CIT,Alternative Payment Method,invoice,NOT MAPPED,18,18,0,0
+2026-02,Foodora,Hungary,CIT,Alternative Payment Method,no_payment,unknown,9,0,0,0
+2026-02,Foodora,Hungary,CIT,Alternative Payment Method,require_payment,NOT MAPPED,1,0,0,0
+2026-02,Foodora,Hungary,CIT,Credit Card,applepay,Fraud Risk,1,0,0,1
+2026-02,Foodora,Hungary,CIT,Credit Card,applepay,Generic Rejection,4,0,0,4
+2026-02,Foodora,Hungary,CIT,Credit Card,applepay,Insufficient Funds,55,0,0,55
+2026-02,Foodora,Hungary,CIT,Credit Card,applepay,NOT MAPPED,5307,5103,204,0
+2026-02,Foodora,Hungary,CIT,Credit Card,applepay,Payment Instrument Issues,6,0,0,6
+2026-02,Foodora,Hungary,CIT,Credit Card,applepay,Third Party System Error,2,0,0,2
+2026-02,Foodora,Hungary,CIT,Credit Card,applepay,unknown,7,2,0,1
+2026-02,Foodora,Hungary,CIT,Credit Card,credit_card,Drops,3556,0,0,3556
+2026-02,Foodora,Hungary,CIT,Credit Card,credit_card,Generic Rejection,2,0,0,2
+2026-02,Foodora,Hungary,CIT,Credit Card,credit_card,Insufficient Funds,18,0,0,18
+2026-02,Foodora,Hungary,CIT,Credit Card,credit_card,NOT MAPPED,7670,7297,370,3
+2026-02,Foodora,Hungary,CIT,Credit Card,credit_card,Payment Instrument Issues,110,0,0,110
+2026-02,Foodora,Hungary,CIT,Credit Card,credit_card,Technical Issues,3,0,0,3
+2026-02,Foodora,Hungary,CIT,Credit Card,credit_card,Third Party System Error,14,0,0,14
+2026-02,Foodora,Hungary,CIT,Credit Card,credit_card,unknown,9,0,0,9
+2026-02,Foodora,Hungary,MIT,Alternative Payment Method,invoice,NOT MAPPED,1297,1297,0,0
+2026-02,Foodora,Hungary,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-02,Foodora,Hungary,MIT,Alternative Payment Method,no_payment_method,Technical Issues,42,0,0,42
+2026-02,Foodora,Hungary,MIT,Alternative Payment Method,no_payment_method,unknown,17,0,0,17
+2026-02,Foodora,Hungary,MIT,Credit Card,applepay,Drops,5,0,0,5
+2026-02,Foodora,Hungary,MIT,Credit Card,applepay,Fraud Risk,5,0,0,5
+2026-02,Foodora,Hungary,MIT,Credit Card,applepay,Generic Rejection,304,0,0,304
+2026-02,Foodora,Hungary,MIT,Credit Card,applepay,Generic Rejection ,2,0,0,2
+2026-02,Foodora,Hungary,MIT,Credit Card,applepay,Insufficient Funds,2123,0,0,2123
+2026-02,Foodora,Hungary,MIT,Credit Card,applepay,NOT MAPPED,13924,13316,608,0
+2026-02,Foodora,Hungary,MIT,Credit Card,applepay,Payment Instrument Issues,897,0,0,897
+2026-02,Foodora,Hungary,MIT,Credit Card,applepay,Third Party System Error,116,0,0,116
+2026-02,Foodora,Hungary,MIT,Credit Card,applepay,unknown,100,92,1,7
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,Drops,217,0,0,217
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,Fraud Risk,20,0,0,20
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,Generic Rejection,27,0,0,27
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,Generic Rejection ,1,0,0,1
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,Insufficient Funds,2353,0,0,2353
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,NOT MAPPED,28830,27801,1024,4
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,Payment Instrument Issues,2097,0,0,2097
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,Technical Issues,2,0,0,2
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,Third Party System Error,311,0,0,311
+2026-02,Foodora,Hungary,MIT,Credit Card,credit_card,unknown,264,248,8,8
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,invoice,NOT MAPPED,2,2,0,0
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,klarna,Drops,102,0,0,102
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,klarna,NOT MAPPED,1597,1592,5,0
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,klarna,Payment Instrument Issues,59,0,0,59
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,klarna,unknown,1,0,0,1
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,require_payment,NOT MAPPED,1,0,0,0
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,vippsdirect,Drops,25,0,0,25
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,vippsdirect,Generic Rejection,745,0,0,745
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,vippsdirect,NOT MAPPED,5627,5573,53,1
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,vippsdirect,Payment Instrument Issues,155,0,0,155
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,vippsdirect,unknown,3,0,0,2
+2026-02,Foodora,Norway,CIT,Alternative Payment Method,voucher,NOT MAPPED,1,1,0,0
+2026-02,Foodora,Norway,CIT,Credit Card,applepay,Insufficient Funds,27,0,0,27
+2026-02,Foodora,Norway,CIT,Credit Card,applepay,NOT MAPPED,3242,3205,37,0
+2026-02,Foodora,Norway,CIT,Credit Card,applepay,Payment Instrument Issues,2,0,0,2
+2026-02,Foodora,Norway,CIT,Credit Card,applepay,Third Party System Error,30,0,0,30
+2026-02,Foodora,Norway,CIT,Credit Card,applepay,unknown,4,1,0,1
+2026-02,Foodora,Norway,CIT,Credit Card,credit_card,Drops,955,0,0,955
+2026-02,Foodora,Norway,CIT,Credit Card,credit_card,Fraud Risk,1,0,0,1
+2026-02,Foodora,Norway,CIT,Credit Card,credit_card,Generic Rejection,6,0,0,6
+2026-02,Foodora,Norway,CIT,Credit Card,credit_card,Insufficient Funds,14,0,0,14
+2026-02,Foodora,Norway,CIT,Credit Card,credit_card,NOT MAPPED,2943,2891,51,1
+2026-02,Foodora,Norway,CIT,Credit Card,credit_card,Payment Instrument Issues,245,0,0,245
+2026-02,Foodora,Norway,CIT,Credit Card,credit_card,Technical Issues,1,0,0,1
+2026-02,Foodora,Norway,CIT,Credit Card,credit_card,Third Party System Error,20,0,0,20
+2026-02,Foodora,Norway,CIT,Credit Card,credit_card,unknown,3,0,0,1
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,invoice,NOT MAPPED,73,73,0,0
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,klarna,Drops,4,0,0,4
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,klarna,NOT MAPPED,3690,3586,103,1
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,klarna,Payment Instrument Issues,320,0,0,320
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,klarna,unknown,19,17,2,0
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,no_payment_method,Technical Issues,7,0,0,7
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,no_payment_method,unknown,16,0,0,16
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,Drops,2,0,0,2
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,Generic Rejection,1216,0,0,1216
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,Generic Rejection ,1,0,0,1
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,NOT MAPPED,7081,6546,534,1
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,Payment Instrument Issues,273,0,0,273
+2026-02,Foodora,Norway,MIT,Alternative Payment Method,vippsdirect,unknown,251,201,47,3
+2026-02,Foodora,Norway,MIT,Credit Card,applepay,Fraud Risk,2,0,0,2
+2026-02,Foodora,Norway,MIT,Credit Card,applepay,Generic Rejection,175,0,0,175
+2026-02,Foodora,Norway,MIT,Credit Card,applepay,Insufficient Funds,820,0,0,820
+2026-02,Foodora,Norway,MIT,Credit Card,applepay,NOT MAPPED,4691,4267,424,0
+2026-02,Foodora,Norway,MIT,Credit Card,applepay,Payment Instrument Issues,101,0,0,101
+2026-02,Foodora,Norway,MIT,Credit Card,applepay,Third Party System Error,27,0,0,27
+2026-02,Foodora,Norway,MIT,Credit Card,applepay,unknown,38,29,6,3
+2026-02,Foodora,Norway,MIT,Credit Card,credit_card,Drops,86,0,0,86
+2026-02,Foodora,Norway,MIT,Credit Card,credit_card,Fraud Risk,2,0,0,2
+2026-02,Foodora,Norway,MIT,Credit Card,credit_card,Generic Rejection,6,0,0,6
+2026-02,Foodora,Norway,MIT,Credit Card,credit_card,Generic Rejection ,1,0,0,1
+2026-02,Foodora,Norway,MIT,Credit Card,credit_card,Insufficient Funds,787,0,0,787
+2026-02,Foodora,Norway,MIT,Credit Card,credit_card,NOT MAPPED,8206,7581,625,0
+2026-02,Foodora,Norway,MIT,Credit Card,credit_card,Payment Instrument Issues,227,0,0,227
+2026-02,Foodora,Norway,MIT,Credit Card,credit_card,Third Party System Error,56,0,0,56
+2026-02,Foodora,Norway,MIT,Credit Card,credit_card,unknown,56,51,4,1
+2026-02,Foodora,Sweden,CIT,Alternative Payment Method,klarna,Drops,516,0,0,516
+2026-02,Foodora,Sweden,CIT,Alternative Payment Method,klarna,NOT MAPPED,7175,7136,39,0
+2026-02,Foodora,Sweden,CIT,Alternative Payment Method,klarna,Payment Instrument Issues,219,0,0,219
+2026-02,Foodora,Sweden,CIT,Alternative Payment Method,klarna,Technical Issues,1,0,0,1
+2026-02,Foodora,Sweden,CIT,Alternative Payment Method,klarna,unknown,11,5,0,0
+2026-02,Foodora,Sweden,CIT,Alternative Payment Method,require_payment,NOT MAPPED,1,0,0,0
+2026-02,Foodora,Sweden,CIT,Credit Card,applepay,Fraud Risk,2,0,0,2
+2026-02,Foodora,Sweden,CIT,Credit Card,applepay,Insufficient Funds,83,0,0,83
+2026-02,Foodora,Sweden,CIT,Credit Card,applepay,NOT MAPPED,7332,7239,93,0
+2026-02,Foodora,Sweden,CIT,Credit Card,applepay,Payment Instrument Issues,16,0,0,16
+2026-02,Foodora,Sweden,CIT,Credit Card,applepay,Technical Issues,1,0,0,1
+2026-02,Foodora,Sweden,CIT,Credit Card,applepay,Third Party System Error,4,0,0,4
+2026-02,Foodora,Sweden,CIT,Credit Card,applepay,unknown,12,5,0,3
+2026-02,Foodora,Sweden,CIT,Credit Card,credit_card,Drops,870,0,0,870
+2026-02,Foodora,Sweden,CIT,Credit Card,credit_card,Fraud Risk,1,0,0,1
+2026-02,Foodora,Sweden,CIT,Credit Card,credit_card,Generic Rejection,4,0,0,4
+2026-02,Foodora,Sweden,CIT,Credit Card,credit_card,Insufficient Funds,26,0,0,26
+2026-02,Foodora,Sweden,CIT,Credit Card,credit_card,NOT MAPPED,3810,3718,90,2
+2026-02,Foodora,Sweden,CIT,Credit Card,credit_card,Payment Instrument Issues,54,0,0,54
+2026-02,Foodora,Sweden,CIT,Credit Card,credit_card,Technical Issues,1,0,0,1
+2026-02,Foodora,Sweden,CIT,Credit Card,credit_card,Third Party System Error,5,0,0,5
+2026-02,Foodora,Sweden,CIT,Credit Card,credit_card,unknown,9,0,0,7
+2026-02,Foodora,Sweden,MIT,Alternative Payment Method,klarna,Drops,16,0,0,16
+2026-02,Foodora,Sweden,MIT,Alternative Payment Method,klarna,NOT MAPPED,22817,22555,262,0
+2026-02,Foodora,Sweden,MIT,Alternative Payment Method,klarna,Payment Instrument Issues,1255,0,0,1255
+2026-02,Foodora,Sweden,MIT,Alternative Payment Method,klarna,Technical Issues,1,0,0,1
+2026-02,Foodora,Sweden,MIT,Alternative Payment Method,klarna,unknown,82,77,1,4
+2026-02,Foodora,Sweden,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-02,Foodora,Sweden,MIT,Alternative Payment Method,no_payment_method,Technical Issues,159,0,0,159
+2026-02,Foodora,Sweden,MIT,Alternative Payment Method,no_payment_method,unknown,22,0,0,22
+2026-02,Foodora,Sweden,MIT,Credit Card,applepay,Fraud Risk,1,0,0,1
+2026-02,Foodora,Sweden,MIT,Credit Card,applepay,Generic Rejection,147,0,0,147
+2026-02,Foodora,Sweden,MIT,Credit Card,applepay,Generic Rejection ,14,0,0,14
+2026-02,Foodora,Sweden,MIT,Credit Card,applepay,Insufficient Funds,2433,0,0,2433
+2026-02,Foodora,Sweden,MIT,Credit Card,applepay,NOT MAPPED,15189,13854,1313,22
+2026-02,Foodora,Sweden,MIT,Credit Card,applepay,Payment Instrument Issues,422,0,0,422
+2026-02,Foodora,Sweden,MIT,Credit Card,applepay,Third Party System Error,51,0,0,51
+2026-02,Foodora,Sweden,MIT,Credit Card,applepay,unknown,107,73,19,15
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,Drops,82,0,0,81
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,Fraud Risk,7,0,0,7
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,Generic Rejection,6,0,0,6
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,Generic Rejection ,11,0,0,11
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,Insufficient Funds,1545,0,0,1545
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,NOT MAPPED,15846,14585,1242,19
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,Payment Instrument Issues,398,0,0,398
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,Technical Issues,7,0,0,7
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,Third Party System Error,38,0,0,38
+2026-02,Foodora,Sweden,MIT,Credit Card,credit_card,unknown,152,128,17,7
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Drops,3498,0,0,3498
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Generic Rejection,18,0,0,18
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Insufficient Funds,537,0,0,537
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,NOT MAPPED,8484,8315,128,41
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Payment Instrument Issues,566,0,0,566
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Payment Instrument Issues ,2,0,0,2
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Technical Issues,3,0,0,3
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,Third Party System Error,14,0,0,14
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,antfinancial_bkash,unknown,30,9,1,11
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,invoice,NOT MAPPED,650,650,0,0
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,no_payment,unknown,47,0,0,0
+2026-02,Foodpanda,Bangladesh,CIT,Alternative Payment Method,require_payment,NOT MAPPED,11,0,0,0
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,cart,NOT MAPPED,776,775,0,1
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,cart,Risk / Fraud Blocks,109,7,0,102
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Drops,841,0,0,841
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Fraud Risk,8,0,0,8
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Generic Rejection,58,0,0,58
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Insufficient Funds,22,0,0,22
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,NOT MAPPED,2162,2038,99,25
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Payment Instrument Issues,89,0,0,89
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Payment Instrument Issues ,1,0,0,1
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Technical Issues,30,0,0,30
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,Third Party System Error,44,0,0,44
+2026-02,Foodpanda,Bangladesh,CIT,Credit Card,credit_card,unknown,46,0,0,45
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Drops,445,0,0,445
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Generic Rejection,149,0,0,149
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Generic Rejection ,1,0,0,1
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Insufficient Funds,5832,0,0,5832
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,NOT MAPPED,22595,18925,3643,27
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Payment Instrument Issues,2556,0,0,2556
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Payment Instrument Issues ,4,0,0,4
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,Third Party System Error,27,0,0,27
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,antfinancial_bkash,unknown,11,6,2,2
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,invoice,NOT MAPPED,1870,1870,0,0
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,5,5,0,0
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,no_payment_method,Technical Issues,33,0,0,33
+2026-02,Foodpanda,Bangladesh,MIT,Alternative Payment Method,no_payment_method,unknown,1,0,0,1
+2026-02,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Drops,105,0,0,105
+2026-02,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Fraud Risk,6,0,0,6
+2026-02,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Generic Rejection,413,0,0,413
+2026-02,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Insufficient Funds,662,0,0,662
+2026-02,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,NOT MAPPED,4531,4361,159,11
+2026-02,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Payment Instrument Issues,283,0,0,283
+2026-02,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Technical Issues,4,0,0,4
+2026-02,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,Third Party System Error,135,0,0,135
+2026-02,Foodpanda,Bangladesh,MIT,Credit Card,credit_card,unknown,24,1,0,23
+2026-02,Foodpanda,Cambodia,CIT,Alternative Payment Method,invoice,NOT MAPPED,3,3,0,0
+2026-02,Foodpanda,Cambodia,CIT,Alternative Payment Method,require_payment,NOT MAPPED,2,0,0,0
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,cart,NOT MAPPED,1451,1451,0,0
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,cart,Risk / Fraud Blocks,71,4,0,67
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Drops,903,0,0,884
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Fraud Risk,7,0,0,7
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Generic Rejection,166,1,0,165
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Generic Rejection ,8,0,0,8
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Insufficient Funds,66,0,0,66
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,credit_card,NOT MAPPED,2809,2636,164,9
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Payment Instrument Issues,42,0,0,42
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,credit_card,Third Party System Error,19,3,0,16
+2026-02,Foodpanda,Cambodia,CIT,Credit Card,credit_card,unknown,24,0,0,21
+2026-02,Foodpanda,Cambodia,MIT,Alternative Payment Method,invoice,NOT MAPPED,110,110,0,0
+2026-02,Foodpanda,Cambodia,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,3,3,0,0
+2026-02,Foodpanda,Cambodia,MIT,Alternative Payment Method,no_payment_method,Technical Issues,264,0,0,264
+2026-02,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Drops,75,0,0,54
+2026-02,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Fraud Risk,15,0,0,15
+2026-02,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Generic Rejection,211,0,0,211
+2026-02,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Generic Rejection ,360,0,0,360
+2026-02,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Insufficient Funds,870,0,0,870
+2026-02,Foodpanda,Cambodia,MIT,Credit Card,credit_card,NOT MAPPED,5872,5446,425,1
+2026-02,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Payment Instrument Issues,241,0,0,241
+2026-02,Foodpanda,Cambodia,MIT,Credit Card,credit_card,Third Party System Error,43,0,2,41
+2026-02,Foodpanda,Cambodia,MIT,Credit Card,credit_card,unknown,5,1,1,3
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Drops,725,0,0,717
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Fraud Risk,6,0,0,6
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Insufficient Funds,304,0,0,304
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,NOT MAPPED,7732,7659,61,12
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Payment Instrument Issues,43,0,0,43
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,Third Party System Error,338,332,5,1
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,antfinancial_alipay,unknown,17,2,0,13
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,invoice,NOT MAPPED,107,107,0,0
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,no_payment,unknown,1,0,0,0
+2026-02,Foodpanda,Hong Kong,CIT,Alternative Payment Method,require_payment,NOT MAPPED,1,0,0,0
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Drops,1,0,0,1
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Fraud Risk,2,0,0,2
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Generic Rejection,5,0,0,5
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Generic Rejection ,2,0,0,2
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Insufficient Funds,9,0,0,9
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,applepay,NOT MAPPED,9490,9408,81,1
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Payment Instrument Issues,33,0,0,33
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,applepay,Payment Instrument Issues ,1,0,0,1
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,applepay,unknown,6,3,0,0
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,cart,Drops,119,97,0,22
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,cart,Insufficient Funds,1,0,0,1
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,cart,NOT MAPPED,361,361,0,0
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,cart,Payment Instrument Issues,1,0,0,1
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,cart,Risk / Fraud Blocks,14,0,0,14
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,cart,Third Party System Error,17,16,0,1
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Drops,692,68,0,600
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Fraud Risk,15,0,0,15
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Generic Rejection,80,0,0,80
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Generic Rejection ,20,0,0,20
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Insufficient Funds,29,0,0,29
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,NOT MAPPED,3719,3598,119,2
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Payment Instrument Issues,38,0,0,38
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Payment Instrument Issues ,1,0,0,1
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,Third Party System Error,2,0,0,2
+2026-02,Foodpanda,Hong Kong,CIT,Credit Card,credit_card,unknown,11,0,0,11
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Drops,144,0,0,92
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Fraud Risk,42,0,0,42
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Insufficient Funds,1875,0,0,1875
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,NOT MAPPED,11892,11505,387,0
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Payment Instrument Issues,792,0,0,792
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,Third Party System Error,3375,3253,120,2
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,antfinancial_alipay,unknown,11,7,0,4
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,invoice,NOT MAPPED,593,593,0,0
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,5,5,0,0
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,no_payment_method,Technical Issues,332,0,0,332
+2026-02,Foodpanda,Hong Kong,MIT,Alternative Payment Method,no_payment_method,unknown,4,0,0,4
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Drops,3,0,0,3
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Fraud Risk,110,0,0,110
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Generic Rejection,78,0,0,78
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Generic Rejection ,8,0,0,8
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Insufficient Funds,425,0,0,425
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,NOT MAPPED,10360,10231,129,0
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Payment Instrument Issues,345,0,0,345
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Payment Instrument Issues ,51,0,0,51
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,Third Party System Error,4,0,0,4
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,applepay,unknown,3,3,0,0
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Drops,39,6,0,22
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Fraud Risk,265,0,0,265
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Generic Rejection,48,0,0,48
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Generic Rejection ,21,0,0,21
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Insufficient Funds,349,0,0,349
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,NOT MAPPED,12605,12447,158,0
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Payment Instrument Issues,225,0,0,225
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Payment Instrument Issues ,53,0,0,53
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,Third Party System Error,15,0,0,15
+2026-02,Foodpanda,Hong Kong,MIT,Credit Card,credit_card,unknown,8,4,0,4
+2026-02,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,Drops,8059,0,0,7998
+2026-02,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,Generic Rejection,276,0,0,276
+2026-02,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,Insufficient Funds,2505,1,0,2504
+2026-02,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,NOT MAPPED,35404,34273,1130,1
+2026-02,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,Payment Instrument Issues,936,0,0,936
+2026-02,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,Third Party System Error,258,9,2,247
+2026-02,Foodpanda,Malaysia,CIT,Alternative Payment Method,antfinancial_tng,unknown,529,0,0,513
+2026-02,Foodpanda,Malaysia,CIT,Alternative Payment Method,invoice,NOT MAPPED,5118,5118,0,0
+2026-02,Foodpanda,Malaysia,CIT,Alternative Payment Method,no_payment,unknown,30,0,0,0
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,applepay,NOT MAPPED,2,2,0,0
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,cart,Drops,336,267,0,69
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,cart,Generic Rejection,3,0,0,3
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,cart,Insufficient Funds,4,0,0,4
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,cart,NOT MAPPED,591,591,0,0
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,cart,Payment Instrument Issues,2,0,0,2
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,cart,Risk / Fraud Blocks,34,2,0,32
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,cart,Third Party System Error,1,1,0,0
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Drops,861,0,0,848
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Fraud Risk,18,0,0,18
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Generic Rejection,67,0,0,67
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Generic Rejection ,16,0,0,16
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Insufficient Funds,476,0,0,476
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,credit_card,NOT MAPPED,11908,11416,488,4
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Payment Instrument Issues,1409,0,0,1409
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,credit_card,Third Party System Error,242,0,0,242
+2026-02,Foodpanda,Malaysia,CIT,Credit Card,credit_card,unknown,226,3,0,220
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,Drops,1028,0,0,551
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,Generic Rejection,2421,0,0,2421
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,Insufficient Funds,17514,0,0,17514
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,NOT MAPPED,100879,93801,7078,0
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,Payment Instrument Issues,3964,0,0,3964
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,Third Party System Error,1455,101,129,1225
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,antfinancial_tng,unknown,178,57,2,119
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,invoice,NOT MAPPED,19113,19113,0,0
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,6,6,0,0
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,no_payment_method,Technical Issues,1324,0,0,1324
+2026-02,Foodpanda,Malaysia,MIT,Alternative Payment Method,no_payment_method,unknown,19,0,0,19
+2026-02,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Drops,65,0,0,41
+2026-02,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Fraud Risk,105,0,0,105
+2026-02,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Generic Rejection,154,0,0,154
+2026-02,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Generic Rejection ,3,0,0,3
+2026-02,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Insufficient Funds,5469,0,0,5469
+2026-02,Foodpanda,Malaysia,MIT,Credit Card,credit_card,NOT MAPPED,61081,58270,2811,0
+2026-02,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Payment Instrument Issues,2679,0,0,2679
+2026-02,Foodpanda,Malaysia,MIT,Credit Card,credit_card,Third Party System Error,1072,0,0,1072
+2026-02,Foodpanda,Malaysia,MIT,Credit Card,credit_card,unknown,27,19,0,8
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Drops,10138,0,0,9866
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Generic Rejection,101,0,0,101
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Generic Rejection ,20,0,0,20
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Insufficient Funds,1535,0,0,1535
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,NOT MAPPED,17298,15441,1814,43
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Payment Instrument Issues,762,0,0,762
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,Third Party System Error,509,317,41,147
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,antfinancial_easypaisa,unknown,518,2,1,502
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,invoice,NOT MAPPED,72,72,0,0
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,no_payment,unknown,16,0,0,0
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,require_payment,NOT MAPPED,2,0,0,0
+2026-02,Foodpanda,Pakistan,CIT,Alternative Payment Method,voucher,NOT MAPPED,26,25,1,0
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,cart,NOT MAPPED,1504,1462,0,41
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,cart,Risk / Fraud Blocks,367,48,0,319
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Drops,9918,1019,26,8601
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Fraud Risk,245,0,0,245
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Generic Rejection,1180,0,0,1180
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Generic Rejection ,700,0,0,700
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Insufficient Funds,609,0,0,609
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,NOT MAPPED,23124,20751,2266,107
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Payment Instrument Issues,1177,0,0,1177
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Payment Instrument Issues ,40,0,0,40
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,Third Party System Error,116,0,0,116
+2026-02,Foodpanda,Pakistan,CIT,Credit Card,credit_card,unknown,289,2,0,272
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Drops,1009,0,0,421
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Generic Rejection,408,0,0,408
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Generic Rejection ,4,0,0,4
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Insufficient Funds,14093,0,0,14093
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,NOT MAPPED,30894,25439,5452,3
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Payment Instrument Issues,10609,0,0,10609
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,Third Party System Error,11966,3981,7778,207
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,antfinancial_easypaisa,unknown,48,15,6,27
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,invoice,NOT MAPPED,2200,2200,0,0
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,5,5,0,0
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,no_payment_method,Technical Issues,3394,0,0,3394
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,no_payment_method,unknown,7,0,0,7
+2026-02,Foodpanda,Pakistan,MIT,Alternative Payment Method,voucher,NOT MAPPED,2,2,0,0
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Drops,516,42,0,273
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Fraud Risk,877,0,0,877
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Generic Rejection,3417,0,0,3417
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Generic Rejection ,267,0,0,267
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Insufficient Funds,11371,0,0,11371
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,NOT MAPPED,78387,72182,6205,0
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Payment Instrument Issues,2962,0,0,2962
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Payment Instrument Issues ,1996,0,0,1996
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,Third Party System Error,18,0,0,18
+2026-02,Foodpanda,Pakistan,MIT,Credit Card,credit_card,unknown,72,41,3,28
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Drops,21318,0,0,21117
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Fraud Risk,390,1,0,382
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Generic Rejection ,13,0,0,13
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Insufficient Funds,6264,0,0,6217
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,NOT MAPPED,81791,79917,1868,6
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Payment Instrument Issues,622,0,0,617
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,Third Party System Error,23,21,1,1
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,antfinancial_gcash,unknown,642,9,0,596
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,dh_wallet,Generic Rejection ,18,0,0,18
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,dh_wallet,NOT MAPPED,60751,60576,174,1
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,dh_wallet,unknown,239,2,0,231
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,invoice,NOT MAPPED,5548,5548,0,0
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,no_payment,unknown,67,0,0,0
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,no_payment_method,NOT MAPPED,1194,1194,0,0
+2026-02,Foodpanda,Philippines,CIT,Alternative Payment Method,require_payment,NOT MAPPED,19,0,0,0
+2026-02,Foodpanda,Philippines,CIT,Credit Card,cart,NOT MAPPED,22491,22352,0,139
+2026-02,Foodpanda,Philippines,CIT,Credit Card,cart,Risk / Fraud Blocks,1235,15,0,1220
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,Drops,7853,718,5,6934
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,Fraud Risk,306,0,0,305
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,Generic Rejection,744,0,0,744
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,Generic Rejection ,938,0,0,930
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,Insufficient Funds,308,0,0,308
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,NOT MAPPED,15829,14293,1482,54
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,Payment Instrument Issues,297,0,0,295
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,Payment Instrument Issues ,115,0,0,115
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,Third Party System Error,53,0,0,53
+2026-02,Foodpanda,Philippines,CIT,Credit Card,credit_card,unknown,314,5,4,293
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Drops,3119,0,0,1682
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Fraud Risk,774,0,0,774
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Generic Rejection ,1,0,0,1
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Insufficient Funds,60819,0,0,60819
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,NOT MAPPED,243810,210412,33398,0
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Payment Instrument Issues,3140,0,0,3140
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,Third Party System Error,371,202,165,4
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,antfinancial_gcash,unknown,447,103,16,328
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,dh_wallet,NOT MAPPED,9628,9425,203,0
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,dh_wallet,unknown,12,0,0,10
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,invoice,NOT MAPPED,8893,8893,0,0
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,no_payment_method,Insufficient Funds,45699,0,0,45699
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,35126,35126,0,0
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,no_payment_method,Technical Issues,3698,0,0,3698
+2026-02,Foodpanda,Philippines,MIT,Alternative Payment Method,no_payment_method,unknown,423,0,0,423
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,Drops,355,50,0,159
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,Fraud Risk,1133,0,0,1133
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,Generic Rejection,953,0,0,953
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,Generic Rejection ,862,0,0,862
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,Insufficient Funds,3934,0,0,3934
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,NOT MAPPED,46708,44896,1807,4
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,Payment Instrument Issues,1010,0,0,1010
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,Payment Instrument Issues ,1360,0,0,1360
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,Third Party System Error,266,0,0,266
+2026-02,Foodpanda,Philippines,MIT,Credit Card,credit_card,unknown,18499,22,3,18474
+2026-02,Foodpanda,Singapore,CIT,Alternative Payment Method,invoice,NOT MAPPED,466,466,0,0
+2026-02,Foodpanda,Singapore,CIT,Alternative Payment Method,no_payment,unknown,5,0,0,0
+2026-02,Foodpanda,Singapore,CIT,Credit Card,applepay,Fraud Risk,7,0,0,7
+2026-02,Foodpanda,Singapore,CIT,Credit Card,applepay,Generic Rejection ,5,0,0,5
+2026-02,Foodpanda,Singapore,CIT,Credit Card,applepay,Insufficient Funds,7,0,0,7
+2026-02,Foodpanda,Singapore,CIT,Credit Card,applepay,NOT MAPPED,7581,7298,283,0
+2026-02,Foodpanda,Singapore,CIT,Credit Card,applepay,Payment Instrument Issues,50,0,0,50
+2026-02,Foodpanda,Singapore,CIT,Credit Card,applepay,unknown,6,3,0,1
+2026-02,Foodpanda,Singapore,CIT,Credit Card,cart,NOT MAPPED,2899,2899,0,0
+2026-02,Foodpanda,Singapore,CIT,Credit Card,cart,Risk / Fraud Blocks,116,0,0,116
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,Drops,1827,294,0,1503
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,Fraud Risk,83,0,0,83
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,Generic Rejection,325,0,0,325
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,Generic Rejection ,23,0,0,23
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,Insufficient Funds,88,0,0,88
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,NOT MAPPED,12281,11594,687,0
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,Payment Instrument Issues,201,0,0,201
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,Payment Instrument Issues ,5,0,0,5
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,Third Party System Error,10,0,0,10
+2026-02,Foodpanda,Singapore,CIT,Credit Card,credit_card,unknown,113,1,0,107
+2026-02,Foodpanda,Singapore,MIT,Alternative Payment Method,invoice,NOT MAPPED,10985,10985,0,0
+2026-02,Foodpanda,Singapore,MIT,Alternative Payment Method,no_payment_method,Insufficient Funds,1,0,0,1
+2026-02,Foodpanda,Singapore,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,12,12,0,0
+2026-02,Foodpanda,Singapore,MIT,Alternative Payment Method,no_payment_method,Technical Issues,894,0,0,894
+2026-02,Foodpanda,Singapore,MIT,Alternative Payment Method,no_payment_method,unknown,1,0,0,1
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,Drops,17,3,0,14
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,Fraud Risk,145,0,0,145
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,Generic Rejection,173,0,0,173
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,Generic Rejection ,20,0,0,20
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,Insufficient Funds,781,0,0,781
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,NOT MAPPED,14633,13755,878,0
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,Payment Instrument Issues,387,0,0,387
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,Payment Instrument Issues ,37,0,0,37
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,Third Party System Error,22,0,0,22
+2026-02,Foodpanda,Singapore,MIT,Credit Card,applepay,unknown,8,7,0,1
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,Drops,153,20,0,91
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,Fraud Risk,705,0,0,705
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,Generic Rejection,151,0,0,151
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,Generic Rejection ,57,0,0,57
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,Insufficient Funds,1991,0,0,1991
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,NOT MAPPED,47328,45977,1351,0
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,Payment Instrument Issues,1201,0,0,1201
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,Payment Instrument Issues ,291,0,0,291
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,Third Party System Error,162,0,0,162
+2026-02,Foodpanda,Singapore,MIT,Credit Card,credit_card,unknown,25,22,0,3
+2026-02,Foodpanda,Taiwan,CIT,Alternative Payment Method,invoice,NOT MAPPED,318,318,0,0
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,cart,Drops,49,0,0,49
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,cart,Fraud Risk,1,0,0,1
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,cart,Generic Rejection,4,0,0,4
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,cart,Insufficient Funds,21,0,0,21
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,cart,NOT MAPPED,2436,2436,0,0
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,cart,Payment Instrument Issues,2,0,0,2
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,cart,Risk / Fraud Blocks,59,1,0,58
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,cart,Third Party System Error,1,0,0,1
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Drops,8203,0,0,7963
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Fraud Risk,51,0,0,51
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Generic Rejection,136,0,0,136
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Generic Rejection ,11,0,0,11
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Insufficient Funds,890,0,0,890
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,credit_card,NOT MAPPED,56112,54471,1527,114
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Payment Instrument Issues,1201,0,0,1201
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,credit_card,Third Party System Error,408,6,0,402
+2026-02,Foodpanda,Taiwan,CIT,Credit Card,credit_card,unknown,192,2,0,185
+2026-02,Foodpanda,Taiwan,MIT,Alternative Payment Method,invoice,NOT MAPPED,6578,6578,0,0
+2026-02,Foodpanda,Taiwan,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,5,5,0,0
+2026-02,Foodpanda,Taiwan,MIT,Alternative Payment Method,no_payment_method,Technical Issues,941,0,0,941
+2026-02,Foodpanda,Taiwan,MIT,Alternative Payment Method,no_payment_method,unknown,5,0,0,5
+2026-02,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Drops,1162,0,0,740
+2026-02,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Fraud Risk,196,0,0,196
+2026-02,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Generic Rejection,537,0,0,537
+2026-02,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Generic Rejection ,1,0,0,1
+2026-02,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Insufficient Funds,10196,0,0,10196
+2026-02,Foodpanda,Taiwan,MIT,Credit Card,credit_card,NOT MAPPED,225210,221193,4012,5
+2026-02,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Payment Instrument Issues,4117,0,0,4117
+2026-02,Foodpanda,Taiwan,MIT,Credit Card,credit_card,Third Party System Error,2645,0,0,2645
+2026-02,Foodpanda,Taiwan,MIT,Credit Card,credit_card,unknown,63,37,2,23
+2026-02,HungerStation,Saudi Arabia,CIT,Alternative Payment Method,mada_card,NOT MAPPED,32635,25024,0,7611
+2026-02,HungerStation,Saudi Arabia,CIT,Alternative Payment Method,unknown,NOT MAPPED,1,1,0,0
+2026-02,HungerStation,Saudi Arabia,CIT,Credit Card,applepay,NOT MAPPED,191270,155949,0,35321
+2026-02,HungerStation,Saudi Arabia,CIT,Credit Card,card,NOT MAPPED,12968,11859,0,1109
+2026-02,HungerStation,Saudi Arabia,MIT,Alternative Payment Method,mada_card,NOT MAPPED,9317,6819,0,2498
+2026-02,HungerStation,Saudi Arabia,MIT,Credit Card,applepay,NOT MAPPED,77226,56254,0,20972
+2026-02,HungerStation,Saudi Arabia,MIT,Credit Card,card,NOT MAPPED,7518,5429,0,2089
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,3DS Expiry Dropoff,23,0,0,23
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Approved,374,374,0,0
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Bad Track Data,6,0,0,6
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Card not 3D-Secure enabled,1,1,0,0
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Cardholder failed 3D-Secure authentication,11,0,0,11
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Decline list - Card number,2,0,0,2
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Decline list - Email address,2,0,0,2
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Declined - Do Not Honour,14,0,0,14
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Expired Card,1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Insufficient Funds,5,5,0,0
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Invalid Card Number,4,0,0,4
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,"Invalid Merchant, or Merchant is not active",1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Lifecycle,4,0,0,4
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Risk Blocked Transaction,1,1,0,0
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Risk decline - Scheme Compliance - Excessive Retries,2,2,0,0
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Scheme compliance,2,1,0,1
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Security,1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Security Violation,2,2,0,0
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,System Malfunction,2,1,0,1
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Transaction not Permitted to Cardholder,2,0,0,2
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Transaction_declined,2,0,0,2
+2026-02,Talabat,Bahrain,CIT,Alternative Payment Method,Unknown,Unknown,1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,Approved,1089,935,154,0
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,Decline list - Email address,1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,Declined - Do Not Honour,10,0,1,9
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,Expired Card,2,0,0,2
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,Insufficient Funds,53,0,2,51
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,Lifecycle,1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,No Universal Value/Amount,1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,Policy,1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,Restricted Card,1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Credit Card,apple pay,Risk decline - Scheme Compliance - Excessive Retries,1,0,0,1
+2026-02,Talabat,Bahrain,CIT,Credit Card,card,Approved,184,75,109,0
+2026-02,Talabat,Bahrain,CIT,Credit Card,card,Declined - Do Not Honour,2,0,1,1
+2026-02,Talabat,Bahrain,CIT,Credit Card,card,Insufficient Funds,13,1,0,12
+2026-02,Talabat,Bahrain,MIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,89,0,0,89
+2026-02,Talabat,Bahrain,MIT,Alternative Payment Method,Unknown,transaction_declined,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Approved,4815,4549,266,0
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Bank Decline,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Declined - Do Not Honour,104,0,0,104
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Expired Card,8,0,0,8
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Insufficient Funds,274,0,0,274
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Invalid Card Number,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Lifecycle,11,0,0,11
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Lost Card - Pick Up,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Pick Up Card (No Fraud),2,0,0,2
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Policy,11,0,0,11
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Restricted Card,20,0,0,20
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Stolen Card - Pick Up,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,System Malfunction,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Transaction not Permitted to Cardholder,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,apple pay,Transaction not Permitted to Terminal,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Approved,2730,2177,553,0
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Bank Decline,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Card type/Payment method not supported,6,0,0,6
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Declined - Do Not Honour,23,0,0,23
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Exceeds Withdrawal Value/Amount Limits,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Expired Card,13,0,0,13
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Insufficient Funds,236,1,0,235
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Invalid Card Number,6,0,0,6
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Lifecycle,14,0,0,14
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Lost Card - Pick Up,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,No Account,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Pick Up Card (No Fraud),3,0,0,3
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Policy,2,0,0,2
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Restricted Card,3,0,0,3
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Risk Blocked Transaction,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Scheme compliance,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Stolen Card - Pick Up,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,System Malfunction,39,0,0,39
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Transaction not Permitted to Cardholder,3,0,0,3
+2026-02,Talabat,Bahrain,MIT,Credit Card,card,Transaction not Permitted to Terminal,1,0,0,1
+2026-02,Talabat,Bahrain,MIT,Credit Card,googlepay,Approved,1,1,0,0
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,3DS Expiry Dropoff,283,0,0,283
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,ACS Malfunction,48,0,0,48
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Allowable PIN Tries Exceeded,7,0,0,7
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Approved,2771,2771,0,0
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Bad Track Data,17,1,0,16
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Bank Decline,6,5,0,1
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Cardholder failed 3D-Secure authentication,120,0,0,120
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Decline list - Email address,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Declined - Do Not Honour,51,0,0,51
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Exceeds Withdrawal Value/Amount Limits,3,0,0,3
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Expired Card,121,0,0,121
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Incorrect PIN,4,1,0,3
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Insufficient Funds,8,4,0,4
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,"Invalid Merchant, or Merchant is not active",8,0,0,8
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Invalid Response,1,1,0,0
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Lifecycle,77,0,0,77
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Lost Card - Pick Up,5,0,0,5
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,No Account,41,4,0,37
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,No Such Issuer,17,0,0,17
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Policy,19,0,0,19
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Restricted Card,11,0,0,11
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Risk Blocked Transaction,40,3,0,37
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Risk decline - Policy Decline Rules,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Risk decline - Scheme Compliance - Excessive Retries,10,9,0,1
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Scheme compliance,23,6,0,17
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Security,13,0,0,13
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Security Violation,2,0,0,2
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Stolen Card - Pick Up,2,0,0,2
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,System Malfunction,4,2,0,2
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Transaction not Permitted to Cardholder,34,0,0,34
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Transaction_declined,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,Unknown,1584,1555,0,29
+2026-02,Talabat,Egypt,CIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,13,0,6,7
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Approved,1715,1402,313,0
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Bad Track Data,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Declined - Do Not Honour,51,0,1,50
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Exceeds Withdrawal Value/Amount Limits,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Expired Card,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Insufficient Funds,35,0,2,33
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Lifecycle,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Lost Card - Pick Up,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,No Account,2,0,0,2
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Policy,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Risk Blocked Transaction,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Credit Card,apple pay,Transaction not Permitted to Cardholder,9,0,2,7
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Approved,1409,615,794,0
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Bank Decline,2,0,0,2
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Declined - Do Not Honour,8,0,0,8
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Expired Card,20,0,1,19
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Insufficient Funds,111,0,4,107
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Lifecycle,11,0,2,9
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Lost Card - Pick Up,2,0,0,2
+2026-02,Talabat,Egypt,CIT,Credit Card,card,No Account,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Policy,5,0,0,5
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Restricted Card,2,0,0,2
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Scheme compliance,1,0,0,1
+2026-02,Talabat,Egypt,CIT,Credit Card,card,System Malfunction,4,0,0,4
+2026-02,Talabat,Egypt,CIT,Credit Card,card,Transaction not Permitted to Cardholder,5,0,0,5
+2026-02,Talabat,Egypt,MIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,778,0,2,776
+2026-02,Talabat,Egypt,MIT,Alternative Payment Method,Unknown,transaction_declined,2,0,0,2
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Allowable PIN Tries Exceeded,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Approved,7989,7681,308,0
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Decline list - Card number,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Declined - Do Not Honour,237,0,0,237
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Exceeds Withdrawal Frequency Limit,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Exceeds Withdrawal Value/Amount Limits,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Expired Card,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Insufficient Funds,515,0,0,515
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Invalid Response,9,0,0,9
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Lifecycle,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Lost Card - Pick Up,12,0,0,12
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,No Account,26,0,0,26
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Policy,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Restricted Card,27,0,0,27
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Risk Blocked Transaction,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,System Malfunction,3,0,0,3
+2026-02,Talabat,Egypt,MIT,Credit Card,apple pay,Transaction not Permitted to Cardholder,340,0,0,340
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Allowable PIN Tries Exceeded,13,0,0,13
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Approved,35833,27679,8154,0
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Bank Decline,131,0,0,131
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Card type/Payment method not supported,3,0,0,3
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Declined - Do Not Honour,112,0,0,112
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Exceeds Withdrawal Frequency Limit,2,0,0,2
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Exceeds Withdrawal Value/Amount Limits,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Expired Card,518,0,0,518
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Insufficient Funds,1641,0,2,1639
+2026-02,Talabat,Egypt,MIT,Credit Card,card,"Invalid Merchant, or Merchant is not active",1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Invalid Response,4,0,0,4
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Lifecycle,206,0,1,205
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Lost Card - Pick Up,11,0,0,11
+2026-02,Talabat,Egypt,MIT,Credit Card,card,No Account,6,0,0,6
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Pick Up Card (No Fraud),9,0,0,9
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Policy,48,0,1,47
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Restricted Card,36,0,0,36
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Risk Blocked Transaction,9,0,0,9
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Risk decline - Policy Decline Rules,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Risk decline - Scheme Compliance - Excessive Retries,54,0,0,54
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Scheme compliance,17,0,0,17
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Security,3,0,0,3
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Security Violation,1,0,0,1
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Stolen Card - Pick Up,3,0,0,3
+2026-02,Talabat,Egypt,MIT,Credit Card,card,System Malfunction,69,0,0,69
+2026-02,Talabat,Egypt,MIT,Credit Card,card,Transaction not Permitted to Cardholder,65,0,0,65
+2026-02,Talabat,Egypt,MIT,Credit Card,googlepay,Approved,1,0,1,0
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown, - ,130,0,0,130
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Authentication failed due to invalid message format,1,0,0,1
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Cancelled by user,14,0,0,14
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Connector/acquirer system is under maintenance,6,0,0,6
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Insufficient Funds,122,0,0,122
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Invalid Payer Authentication in 3DSecure transaction,26,0,0,26
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Not authenticated because the issuer is rejecting authentication,17,0,0,17
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Technical Error in 3D system,1,0,0,1
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,The authentication is cancelled or abandoned,2,0,0,2
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Transaction rejected because cardholder authentication unavailable,109,0,0,109
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Transaction succeeded,1429,1429,0,0
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,Unknown,10,8,0,2
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,User Authentication Failed,2,0,0,2
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,connector/acquirer system is under maintenance,3,0,3,0
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,19,5,10,4
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,insufficient funds,176,7,94,75
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,"registration is not valid, probably initially rejected",4,0,0,4
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,risk management transaction timeout,1,0,0,1
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,successful request,6,6,0,0
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined (Do not honor),168,0,0,168
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined (amount exceeds credit),6,5,1,0
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined (do not honor),13,1,10,2
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined (format error),1,0,0,1
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined (invalid amount),16,16,0,0
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined (invalid card),1,0,0,1
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined (limit exceeded),2,0,0,2
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined (transaction not permitted),13,0,0,13
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined (wrong expiry date),5,0,0,5
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction declined by authorization system,14,0,0,14
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction pending,65,0,0,65
+2026-02,Talabat,Iraq,CIT,Alternative Payment Method,Unknown,transaction_declined,1,0,1,0
+2026-02,Talabat,Iraq,MIT,Alternative Payment Method,Unknown,card expired,2,0,0,2
+2026-02,Talabat,Iraq,MIT,Alternative Payment Method,Unknown,connector/acquirer system is under maintenance,12,0,0,12
+2026-02,Talabat,Iraq,MIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,223,0,0,223
+2026-02,Talabat,Iraq,MIT,Alternative Payment Method,Unknown,insufficient funds,792,0,17,775
+2026-02,Talabat,Iraq,MIT,Alternative Payment Method,Unknown,transaction declined (amount exceeds credit),5,0,1,4
+2026-02,Talabat,Iraq,MIT,Alternative Payment Method,Unknown,transaction declined (do not honor),57,0,0,57
+2026-02,Talabat,Iraq,MIT,Alternative Payment Method,Unknown,transaction declined (transaction not permitted),1,0,0,1
+2026-02,Talabat,Iraq,MIT,Alternative Payment Method,Unknown,transaction declined by authorization system,2,0,0,2
+2026-02,Talabat,Iraq,MIT,Credit Card,card,Approved,2120,1748,372,0
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,3DS Expiry Dropoff,115,0,0,115
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,ACS Malfunction,4,0,0,4
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Allowable PIN Tries Exceeded,4,0,0,4
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Approved,1227,1227,0,0
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Bad Track Data,3,0,0,3
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Bank Decline,9,5,0,4
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Cardholder failed 3D-Secure authentication,69,0,0,69
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Declined - Do Not Honour,57,0,0,57
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Exceeds Withdrawal Frequency Limit,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Exceeds Withdrawal Value/Amount Limits,3,1,0,2
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Expired Card,4,0,0,4
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Insufficient Funds,4,2,0,2
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Invalid Card Number,19,0,0,19
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Invalid Response,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Lifecycle,15,0,0,15
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Lost Card - Pick Up,3,0,0,3
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,No Such Issuer,12,0,0,12
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Pick Up Card (No Fraud),1,0,0,1
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Policy,2,0,0,2
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Refer to Card Issuer,2,0,0,2
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Restricted Card,4,0,0,4
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Risk Blocked Transaction,35,7,0,28
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Risk decline - Policy Decline Rules,3,0,0,3
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Risk decline - Scheme Compliance - Excessive Retries,2,1,0,1
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Scheme compliance,15,5,0,10
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Security,3,0,0,3
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Transaction not Permitted to Cardholder,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Transaction not Permitted to Terminal,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,Unknown,7,0,0,7
+2026-02,Talabat,Jordan,CIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,2,0,1,1
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,Allowable PIN Tries Exceeded,3,0,0,3
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,Approved,1140,1010,130,0
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,Declined - Do Not Honour,45,0,2,43
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,Exceeds Withdrawal Value/Amount Limits,4,0,0,4
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,Expired Card,3,0,0,3
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,Insufficient Funds,14,0,1,13
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,Invalid Response,3,0,0,3
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,Lost Card - Pick Up,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,No Account,3,0,0,3
+2026-02,Talabat,Jordan,CIT,Credit Card,apple pay,Risk Blocked Transaction,2,0,0,2
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Approved,341,100,241,0
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Bank Decline,3,0,0,3
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Declined - Do Not Honour,7,0,1,6
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Insufficient Funds,55,1,3,51
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Invalid Response,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Lifecycle,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Pick Up Card (No Fraud),1,0,1,0
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Policy,2,0,0,2
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Risk Blocked Transaction,2,0,0,2
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Risk decline - Scheme Compliance - Excessive Retries,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Scheme compliance,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Credit Card,card,System Malfunction,1,0,0,1
+2026-02,Talabat,Jordan,CIT,Credit Card,card,Transaction not Permitted to Terminal,1,0,0,1
+2026-02,Talabat,Jordan,MIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,168,0,0,168
+2026-02,Talabat,Jordan,MIT,Alternative Payment Method,Unknown,invalid payment data. you are not configured for this currency or sub type (country or brand),3,0,0,3
+2026-02,Talabat,Jordan,MIT,Credit Card,apple pay,Approved,2557,2349,208,0
+2026-02,Talabat,Jordan,MIT,Credit Card,apple pay,Declined - Do Not Honour,174,0,0,174
+2026-02,Talabat,Jordan,MIT,Credit Card,apple pay,Exceeds Withdrawal Value/Amount Limits,6,0,0,6
+2026-02,Talabat,Jordan,MIT,Credit Card,apple pay,Expired Card,4,0,0,4
+2026-02,Talabat,Jordan,MIT,Credit Card,apple pay,Insufficient Funds,293,0,0,293
+2026-02,Talabat,Jordan,MIT,Credit Card,apple pay,Lost Card - Pick Up,5,0,0,5
+2026-02,Talabat,Jordan,MIT,Credit Card,apple pay,No Account,4,0,0,4
+2026-02,Talabat,Jordan,MIT,Credit Card,apple pay,Risk decline - Scheme Compliance - Excessive Retries,1,0,0,1
+2026-02,Talabat,Jordan,MIT,Credit Card,apple pay,Transaction not Permitted to Cardholder,4,0,0,4
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Allowable PIN Tries Exceeded,3,0,0,3
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Approved,7903,6273,1630,0
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Bank Decline,21,0,0,21
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Card type/Payment method not supported,2,0,0,2
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Decline list - Card number,1,0,0,1
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Declined - Do Not Honour,45,0,0,45
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Exceeds Withdrawal Frequency Limit,4,0,0,4
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Exceeds Withdrawal Value/Amount Limits,13,0,1,12
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Expired Card,25,0,0,25
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Insufficient Funds,739,0,1,738
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Invalid Card Number,13,0,0,13
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Invalid Response,7,0,0,7
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Invalid Transaction,3,0,0,3
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Lifecycle,36,0,0,36
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Lost Card - Pick Up,3,0,0,3
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Pick Up Card (No Fraud),4,0,0,4
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Policy,6,0,0,6
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Restricted Card,1,0,0,1
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Risk Blocked Transaction,5,0,0,5
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Risk decline - Scheme Compliance - Excessive Retries,10,0,0,10
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Scheme compliance,9,0,0,9
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Stolen Card - Pick Up,4,0,0,4
+2026-02,Talabat,Jordan,MIT,Credit Card,card,System Malfunction,35,0,0,35
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Transaction not Permitted to Cardholder,5,0,0,5
+2026-02,Talabat,Jordan,MIT,Credit Card,card,Transaction not Permitted to Terminal,42,0,0,42
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,GOOGLEPAY,Approved,1,1,0,0
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,3DS Expiry Dropoff,154,0,0,154
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,ACS Malfunction,20,0,0,20
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Allowable PIN Tries Exceeded,2,0,0,2
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Approved,2359,2359,0,0
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Bad Track Data,22,0,0,22
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Bank Decline,5,2,0,3
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Cardholder failed 3D-Secure authentication,63,0,0,63
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Decline list - Card number,4,4,0,0
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Decline list - Email address,3,0,0,3
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Declined - Do Not Honour,152,0,0,152
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Exceeds Withdrawal Value/Amount Limits,1,1,0,0
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Expired Card,7,0,0,7
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Insufficient Funds,20,7,0,13
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,"Invalid Merchant, or Merchant is not active",1,0,0,1
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Lost Card - Pick Up,28,0,0,28
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,No Account,101,92,0,9
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,No Such Issuer,7,0,0,7
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Pick Up Card (No Fraud),7,0,0,7
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Risk Blocked Transaction,10,9,0,1
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Risk decline - Scheme Compliance - Excessive Retries,1,1,0,0
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Scheme compliance,52,43,0,9
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Stolen Card - Pick Up,1,0,0,1
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Transaction not Permitted to Cardholder,94,0,0,94
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Transaction_declined,4,0,0,4
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,Unknown,7,2,0,5
+2026-02,Talabat,Kuwait,CIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,6,0,2,4
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,3DS Expiry Dropoff,2,0,0,2
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Approved,1266,297,969,0
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Decline list - Card number,1,0,0,1
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Declined - Do Not Honour,10,0,0,10
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Expired Card,3,0,2,1
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Insufficient Funds,177,1,14,162
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Invalid Response,1,0,0,1
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Lost Card - Pick Up,5,0,1,4
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,No Account,8,1,0,7
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Pick Up Card (No Fraud),1,0,0,1
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Scheme compliance,6,0,0,6
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,System Malfunction,17,0,1,16
+2026-02,Talabat,Kuwait,CIT,Credit Card,card,Transaction not Permitted to Cardholder,6,0,0,6
+2026-02,Talabat,Kuwait,MIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,166,2,0,164
+2026-02,Talabat,Kuwait,MIT,Alternative Payment Method,Unknown,transaction_declined,1,0,0,1
+2026-02,Talabat,Kuwait,MIT,Credit Card,apple pay,Approved,125,116,9,0
+2026-02,Talabat,Kuwait,MIT,Credit Card,apple pay,Declined - Do Not Honour,2,0,0,2
+2026-02,Talabat,Kuwait,MIT,Credit Card,apple pay,Insufficient Funds,6,0,0,6
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Allowable PIN Tries Exceeded,2,0,0,2
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Approved,15160,13956,1204,0
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Bank Decline,2,0,0,2
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Card type/Payment method not supported,3,0,0,3
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Decline list - Card number,2,0,0,2
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Declined - Do Not Honour,115,0,0,115
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Exceeds Withdrawal Frequency Limit,11,0,0,11
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Exceeds Withdrawal Value/Amount Limits,4,0,0,4
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Expired Card,92,0,0,92
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Insufficient Funds,1470,3,3,1464
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Lost Card - Pick Up,45,0,0,45
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,No Account,61,0,0,61
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Pick Up Card (No Fraud),8,0,0,8
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Refer to Card Issuer,1,0,0,1
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Risk Blocked Transaction,15,0,0,15
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Risk decline - Policy Decline Rules,1,0,0,1
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Scheme compliance,43,0,0,43
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Stolen Card - Pick Up,10,0,0,10
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,System Malfunction,123,0,0,123
+2026-02,Talabat,Kuwait,MIT,Credit Card,card,Transaction not Permitted to Cardholder,40,0,0,40
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,3DS Expiry Dropoff,39,0,0,39
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,ACS Malfunction,3,0,0,3
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Approved,512,512,0,0
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Bank Decline,18,6,0,12
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Card Acceptor Contact Acquirer,39,31,0,8
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Cardholder failed 3D-Secure authentication,10,0,0,10
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Decline list - Card number,1,0,0,1
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Declined - Do Not Honour,2,0,0,2
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Expired Card,1,0,0,1
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Invalid Response,2,2,0,0
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Lifecycle,3,0,0,3
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,No Such Issuer,3,0,0,3
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Pick Up Card (No Fraud),1,0,0,1
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Restricted Card,10,0,0,10
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Risk Blocked Transaction,1,1,0,0
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Scheme compliance,6,4,0,2
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Transaction not Permitted to Cardholder,3,0,0,3
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Transaction_declined,3,0,0,3
+2026-02,Talabat,Oman,CIT,Alternative Payment Method,Unknown,Unknown,3,0,0,3
+2026-02,Talabat,Oman,CIT,Credit Card,apple pay,Approved,794,736,58,0
+2026-02,Talabat,Oman,CIT,Credit Card,apple pay,Decline list - Email address,1,0,0,1
+2026-02,Talabat,Oman,CIT,Credit Card,apple pay,Declined - Do Not Honour,8,0,1,7
+2026-02,Talabat,Oman,CIT,Credit Card,apple pay,Exceeds Withdrawal Frequency Limit,2,0,0,2
+2026-02,Talabat,Oman,CIT,Credit Card,apple pay,Exceeds Withdrawal Value/Amount Limits,1,0,0,1
+2026-02,Talabat,Oman,CIT,Credit Card,apple pay,Expired Card,1,0,0,1
+2026-02,Talabat,Oman,CIT,Credit Card,apple pay,Insufficient Funds,47,0,0,47
+2026-02,Talabat,Oman,CIT,Credit Card,apple pay,Policy,1,0,0,1
+2026-02,Talabat,Oman,CIT,Credit Card,apple pay,Risk decline - Scheme Compliance - Excessive Retries,1,0,0,1
+2026-02,Talabat,Oman,CIT,Credit Card,card,Approved,139,65,74,0
+2026-02,Talabat,Oman,CIT,Credit Card,card,Bank Decline,1,0,0,1
+2026-02,Talabat,Oman,CIT,Credit Card,card,Card Acceptor Contact Acquirer,21,1,4,16
+2026-02,Talabat,Oman,CIT,Credit Card,card,Insufficient Funds,1,0,0,1
+2026-02,Talabat,Oman,CIT,Credit Card,card,No Account,1,0,1,0
+2026-02,Talabat,Oman,MIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,135,1,0,134
+2026-02,Talabat,Oman,MIT,Alternative Payment Method,Unknown,invalid payment data. you are not configured for this currency or sub type (country or brand),2,0,0,2
+2026-02,Talabat,Oman,MIT,Alternative Payment Method,Unknown,transaction_declined,2,0,0,2
+2026-02,Talabat,Oman,MIT,Credit Card,apple pay,Approved,2239,2124,115,0
+2026-02,Talabat,Oman,MIT,Credit Card,apple pay,Declined - Do Not Honour,87,0,0,87
+2026-02,Talabat,Oman,MIT,Credit Card,apple pay,Exceeds Withdrawal Value/Amount Limits,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,apple pay,Expired Card,2,0,0,2
+2026-02,Talabat,Oman,MIT,Credit Card,apple pay,Insufficient Funds,113,0,0,113
+2026-02,Talabat,Oman,MIT,Credit Card,apple pay,No Account,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,apple pay,Pick Up Card (No Fraud),3,0,0,3
+2026-02,Talabat,Oman,MIT,Credit Card,apple pay,Restricted Card,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,Approved,8552,6604,1948,0
+2026-02,Talabat,Oman,MIT,Credit Card,card,Bank Decline,11,0,0,11
+2026-02,Talabat,Oman,MIT,Credit Card,card,Card Acceptor Contact Acquirer,380,0,0,380
+2026-02,Talabat,Oman,MIT,Credit Card,card,Decline list - Card number,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,Decline list - Email address,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,Declined - Do Not Honour,8,0,0,8
+2026-02,Talabat,Oman,MIT,Credit Card,card,Expired Card,4,0,0,4
+2026-02,Talabat,Oman,MIT,Credit Card,card,Insufficient Funds,23,0,0,23
+2026-02,Talabat,Oman,MIT,Credit Card,card,Invalid Response,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,Lifecycle,4,0,0,4
+2026-02,Talabat,Oman,MIT,Credit Card,card,Lost Card - Pick Up,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,No Account,3,0,0,3
+2026-02,Talabat,Oman,MIT,Credit Card,card,Pick Up Card (No Fraud),1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,Policy,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,Risk Blocked Transaction,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,Risk decline - Policy Decline Rules,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,Scheme compliance,6,0,0,6
+2026-02,Talabat,Oman,MIT,Credit Card,card,Security,1,0,0,1
+2026-02,Talabat,Oman,MIT,Credit Card,card,System Malfunction,2,0,0,2
+2026-02,Talabat,Oman,MIT,Credit Card,card,Transaction not Permitted to Cardholder,2,0,0,2
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,3DS Expiry Dropoff,78,0,0,78
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,ACS Malfunction,5,0,0,5
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Approved,880,880,0,0
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Card not found,2,2,0,0
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Cardholder failed 3D-Secure authentication,28,0,0,28
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Declined - Do Not Honour,19,0,0,19
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Exceeds Withdrawal Frequency Limit,2,2,0,0
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Insufficient Funds,2,1,0,1
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Invalid Card Number,10,0,0,10
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,"Invalid Merchant, or Merchant is not active",18,0,0,18
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Invalid Response,2,1,0,1
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Lifecycle,12,0,0,12
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Lost Card - Pick Up,5,0,0,5
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,No Such Issuer,2,0,0,2
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Pick Up Card (No Fraud),1,0,0,1
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Policy,10,0,0,10
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Restricted Card,14,0,0,14
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Risk decline - Policy Decline Rules,1,0,0,1
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Risk decline - Scheme Compliance - Excessive Retries,2,2,0,0
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Scheme compliance,10,9,0,1
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Security,30,0,0,30
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Security Violation,1,1,0,0
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Stolen Card - Pick Up,1,0,0,1
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Suspected Fraud,7,0,0,7
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,System Malfunction,1,1,0,0
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Transaction not Permitted to Cardholder,9,0,0,9
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Transaction_declined,1,0,0,1
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,Unknown,3,0,0,3
+2026-02,Talabat,Qatar,CIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,1,0,1,0
+2026-02,Talabat,Qatar,CIT,Credit Card,apple pay,Approved,1803,1686,117,0
+2026-02,Talabat,Qatar,CIT,Credit Card,apple pay,Declined - Do Not Honour,29,0,0,29
+2026-02,Talabat,Qatar,CIT,Credit Card,apple pay,Expired Card,1,0,0,1
+2026-02,Talabat,Qatar,CIT,Credit Card,apple pay,Insufficient Funds,35,0,0,35
+2026-02,Talabat,Qatar,CIT,Credit Card,apple pay,Issuer or Switch is Inoperative,1,0,0,1
+2026-02,Talabat,Qatar,CIT,Credit Card,apple pay,No Universal Value/Amount,1,0,0,1
+2026-02,Talabat,Qatar,CIT,Credit Card,apple pay,Restricted Card,4,0,0,4
+2026-02,Talabat,Qatar,CIT,Credit Card,apple pay,Transaction not Permitted to Cardholder,2,0,0,2
+2026-02,Talabat,Qatar,CIT,Credit Card,card,Approved,175,71,104,0
+2026-02,Talabat,Qatar,CIT,Credit Card,card,Declined - Do Not Honour,3,0,0,3
+2026-02,Talabat,Qatar,CIT,Credit Card,card,Expired Card,1,0,0,1
+2026-02,Talabat,Qatar,CIT,Credit Card,card,Insufficient Funds,13,1,1,11
+2026-02,Talabat,Qatar,CIT,Credit Card,card,Lifecycle,1,0,0,1
+2026-02,Talabat,Qatar,CIT,Credit Card,card,Lost Card - Pick Up,1,0,0,1
+2026-02,Talabat,Qatar,CIT,Credit Card,card,No Universal Value/Amount,1,0,0,1
+2026-02,Talabat,Qatar,MIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,84,2,0,82
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Allowable PIN Tries Exceeded,2,0,0,2
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Approved,4416,4293,123,0
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Declined - Do Not Honour,148,6,0,142
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Exceeds Withdrawal Value/Amount Limits,2,0,0,2
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Expired Card,3,0,0,3
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Insufficient Funds,197,3,0,194
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Invalid Card Number,1,0,0,1
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Lifecycle,20,0,0,20
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Lost Card - Pick Up,11,0,0,11
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Pick Up Card (No Fraud),22,0,0,22
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Policy,13,0,0,13
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Restricted Card,30,0,0,30
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Scheme compliance,3,0,0,3
+2026-02,Talabat,Qatar,MIT,Credit Card,apple pay,Stolen Card - Pick Up,1,0,0,1
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Allowable PIN Tries Exceeded,1,0,0,1
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Approved,4277,3076,1201,0
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Declined - Do Not Honour,83,9,0,74
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Exceeds Withdrawal Value/Amount Limits,1,0,0,1
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Expired Card,12,3,0,9
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Insufficient Funds,137,4,0,133
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Invalid Card Number,3,0,0,3
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Invalid Response,1,0,0,1
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Lifecycle,10,1,0,9
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Lost Card - Pick Up,8,0,0,8
+2026-02,Talabat,Qatar,MIT,Credit Card,card,No Universal Value/Amount,3,0,0,3
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Pick Up Card (No Fraud),8,0,0,8
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Policy,11,2,0,9
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Restricted Card,8,2,0,6
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Scheme compliance,8,0,0,8
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Security,5,0,0,5
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Stolen Card - Pick Up,2,0,0,2
+2026-02,Talabat,Qatar,MIT,Credit Card,card,Suspected Fraud,7,0,0,7
+2026-02,Talabat,Qatar,MIT,Credit Card,card,System Malfunction,10,0,0,10
+2026-02,Talabat,Qatar,MIT,Credit Card,googlepay,Approved,4,4,0,0
+2026-02,Talabat,Qatar,MIT,Credit Card,googlepay,Lifecycle,1,1,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,GOOGLEPAY,Restricted Card,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,3DS Expiry Dropoff,190,0,0,190
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,ACS Malfunction,7,0,0,7
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Allowable PIN Tries Exceeded,3,0,0,3
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Approved,1614,1614,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Blocked by cardholder/contact cardholder,2,2,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,"Blocked, first use - transaction from new cardholder, and card not properly unblocked",17,0,0,17
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Cardholder ID verification failed,1,1,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Cardholder failed 3D-Secure authentication,75,0,0,75
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Closed Account,14,0,0,14
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Decline for CVV2 Failure,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Declined - Do Not Honour,17,0,0,17
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Exceeds Withdrawal Frequency Limit,2,2,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Exceeds Withdrawal Value/Amount Limits,1,1,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Expired Card,5,0,0,5
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Incorrect PIN,1,1,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Insufficient Funds,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Invalid Card Number,27,0,0,27
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,"Invalid Merchant, or Merchant is not active",1,1,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Issuer or Switch is Inoperative,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Lifecycle,39,0,0,39
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Lost Card - Pick Up,8,0,0,8
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,No Such Issuer,7,0,0,7
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Pick Up Card (No Fraud),9,0,0,9
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Policy,64,0,0,64
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Restricted Card,24,0,0,24
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Risk Blocked Transaction,4,2,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Risk decline - Policy Decline Rules,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Risk decline - Scheme Compliance - Excessive Retries,8,6,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Scheme compliance,19,16,0,3
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Security,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Security Violation,1,1,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Stolen Card - Pick Up,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Suspected Fraud,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Transaction Cannot be Completed,1,1,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Transaction not Permitted to Cardholder,5,0,0,5
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Transaction not supported/blocked by issuer,2,2,0,0
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Transaction_declined,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,Unknown,9,7,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,2,0,2,0
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Allowable PIN Tries Exceeded,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Approved,5547,4737,810,0
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,"Blocked, first use - transaction from new cardholder, and card not properly unblocked",2,1,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Declined - Do Not Honour,25,2,6,17
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Exceeds Withdrawal Value/Amount Limits,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Expired Card,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Incorrect PIN,3,0,0,3
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Insufficient Funds,29,1,8,20
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Invalid Card Number,5,0,0,5
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Lifecycle,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Lost Card - Pick Up,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,No security model,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Pick Up Card (No Fraud),1,0,1,0
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Policy,210,0,0,210
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Restricted Card,13,0,2,11
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Risk Blocked Transaction,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Risk decline - Scheme Compliance - Excessive Retries,3,0,0,3
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Scheme compliance,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,apple pay,Transaction not supported/blocked by issuer,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,3DS Expiry Dropoff,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Approved,433,208,225,0
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,"Blocked, first use - transaction from new cardholder, and card not properly unblocked",3,0,0,3
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Cardholder ID verification failed,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Closed Account,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Declined - Do Not Honour,2,0,1,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Exceeds Withdrawal Frequency Limit,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Insufficient Funds,26,0,1,25
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Invalid Card Number,7,0,1,6
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Invalid Transaction,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Lifecycle,5,0,0,5
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Lost Card - Pick Up,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Policy,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Restricted Card,2,0,1,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Risk decline - Scheme Compliance - Excessive Retries,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Scheme compliance,2,0,0,2
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,card,Security Violation,1,0,0,1
+2026-02,Talabat,United Arab Emirates,CIT,Credit Card,googlepay,Approved,1,0,1,0
+2026-02,Talabat,United Arab Emirates,MIT,Alternative Payment Method,Unknown,credit_card_token_not_exist,309,0,0,309
+2026-02,Talabat,United Arab Emirates,MIT,Alternative Payment Method,Unknown,transaction_declined,1,0,0,1
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Account Not Yet Activated,6,0,0,6
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Allowable PIN Tries Exceeded,3,0,0,3
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Approved,30649,29438,1211,0
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Blocked by cardholder/contact cardholder,6,0,0,6
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,"Blocked, first use - transaction from new cardholder, and card not properly unblocked",14,0,0,14
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Closed Account,10,0,0,10
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Decline list - Card number,2,0,0,2
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Declined - Do Not Honour,1006,0,0,1006
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Exceeds Withdrawal Value/Amount Limits,5,0,0,5
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Expired Card,34,0,0,34
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Incorrect PIN,5,0,0,5
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Insufficient Funds,1525,3,2,1520
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Invalid Card Number,89,0,0,89
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,"Invalid Merchant, or Merchant is not active",21,0,0,21
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Invalid Transaction,9,0,0,9
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Issuer initiated a stop payment ( revocation order)  for this Authorization,7,0,0,7
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Lifecycle,9,0,0,9
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Lost Card - Pick Up,73,0,0,73
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,No Such Issuer,5,0,0,5
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Pick Up Card (No Fraud),16,0,0,16
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,"Pick Up Card, Special Conditions",7,0,0,7
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Policy,47,0,0,47
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Refer to Card Issuer,3,0,0,3
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Restricted Card,269,0,0,269
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Risk decline - Scheme Compliance - Excessive Retries,4,0,0,4
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Scheme compliance,10,0,0,10
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Security,3,0,0,3
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Stolen Card - Pick Up,7,0,0,7
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,System Malfunction,1,0,0,1
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Transaction Cannot be Completed,1,0,0,1
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Transaction not Permitted to Terminal,12,0,0,12
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,apple pay,Transaction not supported/blocked by issuer,30,0,0,30
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Account Not Yet Activated,2,0,0,2
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Allowable PIN Tries Exceeded,1,0,0,1
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Approved,20569,12816,7753,0
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Blocked by cardholder/contact cardholder,1,0,0,1
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,"Blocked, first use - transaction from new cardholder, and card not properly unblocked",39,0,0,39
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Closed Account,44,1,0,43
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Decline list - Card number,2,0,0,2
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Declined - Do Not Honour,48,0,0,48
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Exceeds Withdrawal Frequency Limit,5,0,0,5
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Exceeds Withdrawal Value/Amount Limits,12,0,0,12
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Expired Card,8,0,0,8
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Incorrect PIN,1,0,0,1
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Insufficient Funds,589,2,1,586
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Invalid Card Number,54,2,0,52
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,"Invalid Merchant, or Merchant is not active",4,0,0,4
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Invalid Response,4,0,0,4
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Invalid Transaction,14,0,0,14
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Lifecycle,64,0,0,64
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Lost Card - Pick Up,13,0,0,13
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Pick Up Card (No Fraud),26,0,0,26
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Policy,63,0,1,62
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Refer to Card Issuer,1,0,0,1
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Restricted Card,38,1,0,37
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Risk decline - Scheme Compliance - Excessive Retries,2,0,0,2
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Scheme compliance,28,1,0,27
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Security,1,0,0,1
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Stolen Card - Pick Up,2,0,0,2
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Suspected Fraud,2,0,0,2
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,System Malfunction,2,0,0,2
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Transaction Cannot be Completed,32,0,0,32
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Transaction not Permitted to Cardholder,4,0,0,4
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Transaction not Permitted to Terminal,3,0,0,3
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,card,Transaction not supported/blocked by issuer,11,0,0,11
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,googlepay,Approved,8,6,2,0
+2026-02,Talabat,United Arab Emirates,MIT,Credit Card,googlepay,Closed Account,1,0,0,1
+2026-02,Yemeksepeti,Turkey,CIT,Alternative Payment Method,voucher,NOT MAPPED,1,1,0,0
+2026-02,Yemeksepeti,Turkey,CIT,Credit Card,yemekpay_creditcard,Insufficient Funds,2,0,0,2
+2026-02,Yemeksepeti,Turkey,CIT,Credit Card,yemekpay_creditcard,NOT MAPPED,54,54,0,0
+2026-02,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,Fraud Risk,5,0,0,5
+2026-02,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,Generic Rejection ,1,0,0,1
+2026-02,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,Insufficient Funds,11,0,0,11
+2026-02,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,NOT MAPPED,1,1,0,0
+2026-02,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,Technical Issues,4,0,0,4
+2026-02,Yemeksepeti,Turkey,MIT,Alternative Payment Method,no_payment_method,Third Party System Error,3,0,0,3
+2026-02,Yemeksepeti,Turkey,MIT,Credit Card,yemekpay_creditcard,NOT MAPPED,156,156,0,0
